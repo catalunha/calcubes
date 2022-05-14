@@ -37,9 +37,9 @@ class HomePage extends StatelessWidget {
                   text: 'Tens and ones',
                   onTap: () => Get.toNamed(Routes.tensOnesCount)),
               itemGrid(
-                image: AppAssets.hundredsTensOnes,
-                text: 'Hundreds, Tens and ones',
-              ),
+                  image: AppAssets.hundredsTensOnes,
+                  text: 'Hundreds, Tens and ones',
+                  onTap: () => Get.toNamed(Routes.hundredsTensOnesCount)),
               itemGrid(
                 image: AppAssets.addOnes,
                 text: 'Addition with Ones',

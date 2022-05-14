@@ -5,10 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class TensOnesCountPage extends StatelessWidget {
+class HundredsTensOnesCountPage extends StatelessWidget {
   final HundredsTensOnesCountController _hundredsTensOnesCountController =
       Get.find();
-  TensOnesCountPage({Key? key}) : super(key: key);
+  HundredsTensOnesCountPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -26,6 +26,22 @@ class TensOnesCountPage extends StatelessWidget {
                 // crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
+                  Flexible(
+                    child: Column(
+                      // crossAxisAlignment: CrossAxisAlignment.center,
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Text(
+                          '${_hundredsTensOnesCountController.hundred}',
+                          style: GoogleFonts.pacifico(fontSize: 50.0),
+                        ),
+                        Image.asset(
+                          _hundredsTensOnesCountController.hundredsList[
+                              _hundredsTensOnesCountController.hundred],
+                        ),
+                      ],
+                    ),
+                  ),
                   Flexible(
                     child: Column(
                       // crossAxisAlignment: CrossAxisAlignment.center,
@@ -72,13 +88,18 @@ class TensOnesCountPage extends StatelessWidget {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
-                  // Container(
-                  //   color: Colors.blue,
-                  //   child: Image.asset(
-                  //     AppAssets.plusHundred,
-                  //     // width: 200,
-                  //   ),
-                  // ),
+                  InkWell(
+                    child: Container(
+                      color: Colors.blue,
+                      child: Image.asset(
+                        AppAssets.plusHundred,
+                      ),
+                    ),
+                    onTap: () {
+                      _hundredsTensOnesCountController.plusHundred();
+                      print(_hundredsTensOnesCountController.hundred);
+                    },
+                  ),
                   InkWell(
                     child: Container(
                       color: Colors.blue,
@@ -111,13 +132,17 @@ class TensOnesCountPage extends StatelessWidget {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
-                  // Container(
-                  //   color: Colors.blue,
-                  //   child: Image.asset(
-                  //     AppAssets.lessHundred,
-                  //     // width: 200,
-                  //   ),
-                  // ),
+                  InkWell(
+                    child: Container(
+                      color: Colors.blue,
+                      child: Image.asset(
+                        AppAssets.lessHundred,
+                      ),
+                    ),
+                    onTap: () {
+                      _hundredsTensOnesCountController.lessHundred();
+                    },
+                  ),
                   InkWell(
                     child: Container(
                       color: Colors.blue,

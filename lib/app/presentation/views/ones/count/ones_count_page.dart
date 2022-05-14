@@ -18,11 +18,8 @@ class OnesCountPage extends StatelessWidget {
         children: [
           Expanded(
             child: Obx(
-              () => Container(
-                // color: Colors.blue,
-                child: Image.asset(
-                  _onesCountController.onesList[_onesCountController.one],
-                ),
+              () => Image.asset(
+                _onesCountController.onesList[_onesCountController.one],
               ),
             ),
           ),

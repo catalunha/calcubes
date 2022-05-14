@@ -71,4 +71,14 @@ class AppAssets {
   static String tens7 = 'assets/images/tens_7.svg';
   static String tens8 = 'assets/images/tens_8.svg';
   static String tens9 = 'assets/images/tens_9.svg';
+  static String hundreds0 = 'assets/images/hundreds_0.svg';
+  static String hundreds1 = 'assets/images/hundreds_1.svg';
+  static String hundreds2 = 'assets/images/hundreds_2.svg';
+  static String hundreds3 = 'assets/images/hundreds_3.svg';
+  static String hundreds4 = 'assets/images/hundreds_4.svg';
+  static String hundreds5 = 'assets/images/hundreds_5.svg';
+  static String hundreds6 = 'assets/images/hundreds_6.svg';
+  static String hundreds7 = 'assets/images/hundreds_7.svg';
+  static String hundreds8 = 'assets/images/hundreds_8.svg';
+  static String hundreds9 = 'assets/images/hundreds_9.svg';
 }

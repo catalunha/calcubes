@@ -1,7 +1,46 @@
 import 'package:calcubes/app/presentation/views/utils/app_assets.dart';
 import 'package:get/get.dart';
 
-class TensOnesCountController extends GetxController {
+class HundredsTensOnesCountController extends GetxController {
+  // ====================== HUNDREDS =============================================
+  final _hundreds = 0.obs;
+  get hundred {
+    return _hundreds.value;
+  }
+
+  plusHundred() {
+    if (_hundreds.value >= 9) {
+      _hundreds.value = 9;
+    } else {
+      _hundreds.value++;
+    }
+  }
+
+  lessHundred() {
+    if (_hundreds.value <= 0) {
+      _hundreds.value = 0;
+    } else {
+      _hundreds.value--;
+    }
+  }
+
+  resetHundred() {
+    _hundreds.value = 0;
+  }
+
+  List<String> hundredsList = [
+    AppAssets.hundreds0,
+    AppAssets.hundreds1,
+    AppAssets.hundreds2,
+    AppAssets.hundreds3,
+    AppAssets.hundreds4,
+    AppAssets.hundreds5,
+    AppAssets.hundreds6,
+    AppAssets.hundreds7,
+    AppAssets.hundreds8,
+    AppAssets.hundreds9,
+  ];
+  // ====================== TENS =============================================
   final _tens = 0.obs;
   get ten {
     return _tens.value;
@@ -39,7 +78,7 @@ class TensOnesCountController extends GetxController {
     AppAssets.tens8,
     AppAssets.tens9,
   ];
-  // ===================================================================
+  // ====================== ONES =============================================
   final _one = 0.obs;
   get one {
     return _one.value;
@@ -78,7 +117,8 @@ class TensOnesCountController extends GetxController {
     AppAssets.ones9,
   ];
   //================
-  resetTensOnes() {
+  resetHundredsTensOnes() {
+    resetHundred();
     resetTen();
     resetOne();
   }

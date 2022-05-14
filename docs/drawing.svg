@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.32"
-     inkscape:cx="1150"
-     inkscape:cy="1681.25"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="3355.4427"
+     inkscape:cy="846.31843"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -1051,7 +1051,7 @@
        x="726.22437"
        y="1834.402"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_00.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -2151,6 +2151,28 @@
        y="-70.85144"
        ry="0"
        inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_00.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81"
+       width="158.26291"
+       height="318.26291"
+       x="2971.2793"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_0.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2"
+       width="158.26291"
+       height="318.26291"
+       x="2971.2793"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_0.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -4043,376 +4065,6 @@
          y="1880.8066"
          style="font-size:13.3333px;text-align:end;text-anchor:end;stroke-width:0.634423">100</tspan></text>
     <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2"
-       width="59.416679"
-       height="59.416664"
-       x="738.06262"
-       y="1840.4412" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0"
-       width="12"
-       height="112.07648"
-       x="820.56934"
-       y="2033.1453" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2"
-       id="use135068"
-       transform="translate(0,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068"
-       id="use135070"
-       transform="translate(0,61.416626)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-5"
-       width="59.416679"
-       height="59.416664"
-       x="843.01904"
-       y="1841.2488" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5"
-       id="use135068-4"
-       transform="translate(2.7115973e-8,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-4"
-       id="use135070-7"
-       transform="translate(2.7115973e-8,61.416626)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-8"
-       width="59.416679"
-       height="59.416664"
-       x="949.66998"
-       y="1841.4456" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8"
-       id="use135068-6"
-       transform="translate(4.6179433e-6,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6"
-       id="use135070-0"
-       transform="translate(4.6179433e-6,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0"
-       id="use135378"
-       transform="translate(13.416138)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2"
-       width="12"
-       height="112.07648"
-       x="807.1532"
-       y="2033.1453" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0"
-       id="use135380"
-       transform="translate(26.832275)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0"
-       id="use135382"
-       transform="translate(40.248352)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0"
-       id="use135384"
-       transform="translate(53.66449)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0"
-       id="use135386"
-       transform="translate(67.080627)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0"
-       id="use135388"
-       transform="translate(80.496704)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0"
-       id="use135390"
-       transform="translate(93.912842)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0"
-       id="use135392"
-       transform="translate(107.32898)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="928.81238"
-       y="2074.9023"
-       id="text166321"><tspan
-         sodipodi:role="line"
-         id="tspan166319"
-         x="928.81238"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="928.81238"
-         y="2094.9023"
-         id="tspan166323"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="928.81238"
-         y="2114.9023"
-         id="tspan166325"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="915.39624"
-       y="2074.9023"
-       id="text166321-9"><tspan
-         sodipodi:role="line"
-         id="tspan166319-3"
-         x="915.39624"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">2</tspan><tspan
-         sodipodi:role="line"
-         x="915.39624"
-         y="2094.9023"
-         id="tspan166323-3"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="915.39624"
-         y="2114.9023"
-         id="tspan166325-7"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="901.9801"
-       y="2074.9023"
-       id="text166321-4"><tspan
-         sodipodi:role="line"
-         id="tspan166319-37"
-         x="901.9801"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">3</tspan><tspan
-         sodipodi:role="line"
-         x="901.9801"
-         y="2094.9023"
-         id="tspan166323-1"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="901.9801"
-         y="2114.9023"
-         id="tspan166325-3"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="888.56403"
-       y="2074.9023"
-       id="text166321-96"><tspan
-         sodipodi:role="line"
-         id="tspan166319-4"
-         x="888.56403"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">4</tspan><tspan
-         sodipodi:role="line"
-         x="888.56403"
-         y="2094.9023"
-         id="tspan166323-2"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="888.56403"
-         y="2114.9023"
-         id="tspan166325-0"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="875.14789"
-       y="2074.9023"
-       id="text166321-2"><tspan
-         sodipodi:role="line"
-         id="tspan166319-9"
-         x="875.14789"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">5</tspan><tspan
-         sodipodi:role="line"
-         x="875.14789"
-         y="2094.9023"
-         id="tspan166323-5"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="875.14789"
-         y="2114.9023"
-         id="tspan166325-74"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="861.73175"
-       y="2074.9023"
-       id="text166321-6"><tspan
-         sodipodi:role="line"
-         id="tspan166319-49"
-         x="861.73175"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">6</tspan><tspan
-         sodipodi:role="line"
-         x="861.73175"
-         y="2094.9023"
-         id="tspan166323-12"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="861.73175"
-         y="2114.9023"
-         id="tspan166325-31"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="848.31567"
-       y="2074.9023"
-       id="text166321-8"><tspan
-         sodipodi:role="line"
-         id="tspan166319-1"
-         x="848.31567"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">7</tspan><tspan
-         sodipodi:role="line"
-         x="848.31567"
-         y="2094.9023"
-         id="tspan166323-38"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="848.31567"
-         y="2114.9023"
-         id="tspan166325-9"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="834.89954"
-       y="2074.9023"
-       id="text166321-24"><tspan
-         sodipodi:role="line"
-         id="tspan166319-5"
-         x="834.89954"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">8</tspan><tspan
-         sodipodi:role="line"
-         x="834.89954"
-         y="2094.9023"
-         id="tspan166323-10"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="834.89954"
-         y="2114.9023"
-         id="tspan166325-01"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="821.4834"
-       y="2074.9023"
-       id="text166321-3"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30"
-         x="821.4834"
-         y="2074.9023"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="821.4834"
-         y="2094.9023"
-         id="tspan166323-0"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="821.4834"
-         y="2114.9023"
-         id="tspan166325-02"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="808.06726"
-       y="2064.9023"
-       id="text166321-3-4"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7"
-         x="808.06726"
-         y="2064.9023"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="808.06726"
-         y="2084.9023"
-         id="tspan166323-0-9"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="808.06726"
-         y="2104.9023"
-         id="tspan166325-02-8"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="808.06726"
-         y="2124.9023"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077">0</tspan></text>
-    <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-0"
        width="317.54224"
@@ -4420,7 +4072,7 @@
        x="1043.7666"
        y="1834.4022"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_01.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -4440,152 +4092,11 @@
        y="1840.4414" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-3"
-       width="12"
-       height="112.07648"
-       x="1138.1116"
-       y="2033.1455" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-4"
-       id="use135068-7"
-       transform="translate(2.7343751e-7,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-7"
-       id="use135070-5"
-       transform="translate(2.7343751e-7,61.416626)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-5-8"
-       width="59.416679"
-       height="59.416664"
-       x="1160.5613"
-       y="1841.249" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-8"
-       id="use135068-4-1"
-       transform="translate(2.7343751e-7,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-4-1"
-       id="use135070-7-0"
-       transform="translate(2.7343751e-7,61.416626)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-8-9"
-       width="59.416679"
-       height="59.416664"
-       x="1267.2123"
-       y="1841.4458" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8-9"
-       id="use135068-6-3"
-       transform="translate(2.7343751e-7,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-3"
-       id="use135070-0-0"
-       transform="translate(2.7343751e-7,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-3"
-       id="use135378-2"
-       transform="translate(13.41614)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-6"
-       width="12"
-       height="112.07648"
-       x="1124.6954"
-       y="2033.1455" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-3"
-       id="use135380-4"
-       transform="translate(26.83227)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-3"
-       id="use135382-3"
-       transform="translate(40.24835)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-3"
-       id="use135384-8"
-       transform="translate(53.66449)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-3"
-       id="use135386-6"
-       transform="translate(67.08063)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-3"
-       id="use135388-7"
-       transform="translate(80.4967)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-3"
-       id="use135390-0"
-       transform="translate(93.91284)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-3"
        id="use135392-8"
-       transform="translate(107.32898)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       width="12"
+       height="112.07648"
+       x="1245.4406"
+       y="2033.1455" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
@@ -4607,200 +4118,6 @@
          y="2114.9026"
          id="tspan166325-4"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1232.9385"
-       y="2074.9026"
-       id="text166321-9-8"><tspan
-         sodipodi:role="line"
-         id="tspan166319-3-5"
-         x="1232.9385"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">2</tspan><tspan
-         sodipodi:role="line"
-         x="1232.9385"
-         y="2094.9026"
-         id="tspan166323-3-0"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1232.9385"
-         y="2114.9026"
-         id="tspan166325-7-1"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1219.5223"
-       y="2074.9026"
-       id="text166321-4-5"><tspan
-         sodipodi:role="line"
-         id="tspan166319-37-9"
-         x="1219.5223"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">3</tspan><tspan
-         sodipodi:role="line"
-         x="1219.5223"
-         y="2094.9026"
-         id="tspan166323-1-7"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1219.5223"
-         y="2114.9026"
-         id="tspan166325-3-0"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1206.1062"
-       y="2074.9026"
-       id="text166321-96-6"><tspan
-         sodipodi:role="line"
-         id="tspan166319-4-2"
-         x="1206.1062"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">4</tspan><tspan
-         sodipodi:role="line"
-         x="1206.1062"
-         y="2094.9026"
-         id="tspan166323-2-8"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1206.1062"
-         y="2114.9026"
-         id="tspan166325-0-9"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1192.6902"
-       y="2074.9026"
-       id="text166321-2-5"><tspan
-         sodipodi:role="line"
-         id="tspan166319-9-0"
-         x="1192.6902"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">5</tspan><tspan
-         sodipodi:role="line"
-         x="1192.6902"
-         y="2094.9026"
-         id="tspan166323-5-2"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1192.6902"
-         y="2114.9026"
-         id="tspan166325-74-7"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1179.2739"
-       y="2074.9026"
-       id="text166321-6-2"><tspan
-         sodipodi:role="line"
-         id="tspan166319-49-8"
-         x="1179.2739"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">6</tspan><tspan
-         sodipodi:role="line"
-         x="1179.2739"
-         y="2094.9026"
-         id="tspan166323-12-1"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1179.2739"
-         y="2114.9026"
-         id="tspan166325-31-7"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1165.8579"
-       y="2074.9026"
-       id="text166321-8-7"><tspan
-         sodipodi:role="line"
-         id="tspan166319-1-9"
-         x="1165.8579"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">7</tspan><tspan
-         sodipodi:role="line"
-         x="1165.8579"
-         y="2094.9026"
-         id="tspan166323-38-7"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1165.8579"
-         y="2114.9026"
-         id="tspan166325-9-9"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1152.4418"
-       y="2074.9026"
-       id="text166321-24-8"><tspan
-         sodipodi:role="line"
-         id="tspan166319-5-8"
-         x="1152.4418"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">8</tspan><tspan
-         sodipodi:role="line"
-         x="1152.4418"
-         y="2094.9026"
-         id="tspan166323-10-9"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1152.4418"
-         y="2114.9026"
-         id="tspan166325-01-8"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1139.0256"
-       y="2074.9026"
-       id="text166321-3-0"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-5"
-         x="1139.0256"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="1139.0256"
-         y="2094.9026"
-         id="tspan166323-0-2"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1139.0256"
-         y="2114.9026"
-         id="tspan166325-02-0"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1125.6095"
-       y="2064.9026"
-       id="text166321-3-4-2"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-4"
-         x="1125.6095"
-         y="2064.9026"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="1125.6095"
-         y="2084.9026"
-         id="tspan166323-0-9-3"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1125.6095"
-         y="2104.9026"
-         id="tspan166325-02-8-7"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1125.6095"
-         y="2124.9026"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-3">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-00"
@@ -4809,7 +4126,7 @@
        x="1361.3088"
        y="1834.4022"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_02.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -4827,13 +4144,6 @@
        height="59.416664"
        x="1373.1471"
        y="1840.4414" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-0"
-       width="12"
-       height="112.07648"
-       x="1455.6538"
-       y="2033.1455" />
     <use
        x="0"
        y="0"
@@ -4842,139 +4152,20 @@
        transform="translate(3.9453125e-6,61.416626)"
        width="100%"
        height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-0"
-       id="use135070-04"
-       transform="translate(3.9453125e-6,61.416626)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-5-7"
-       width="59.416679"
-       height="59.416664"
-       x="1478.1035"
-       y="1841.249" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-7"
-       id="use135068-4-5"
-       transform="translate(3.9453125e-6,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-4-5"
-       id="use135070-7-3"
-       transform="translate(3.9453125e-6,61.416626)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-8-1"
-       width="59.416679"
-       height="59.416664"
-       x="1584.7545"
-       y="1841.4458" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8-1"
-       id="use135068-6-4"
-       transform="translate(3.9453125e-6,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-4"
-       id="use135070-0-2"
-       transform="translate(3.9453125e-6,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-0"
-       id="use135378-0"
-       transform="translate(13.416144)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-1"
+       id="use135390-2"
        width="12"
        height="112.07648"
-       x="1442.2377"
+       x="1549.5667"
        y="2033.1455" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-0"
-       id="use135380-3"
-       transform="translate(26.832274)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-0"
-       id="use135382-0"
-       transform="translate(40.248354)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-0"
-       id="use135384-0"
-       transform="translate(53.664494)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-0"
-       id="use135386-4"
-       transform="translate(67.080634)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-0"
-       id="use135388-8"
-       transform="translate(80.496704)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-0"
-       id="use135390-2"
-       transform="translate(93.912844)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-0"
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135392-2"
-       transform="translate(107.32898)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       width="12"
+       height="112.07648"
+       x="1562.9828"
+       y="2033.1455" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
@@ -5017,179 +4208,6 @@
          y="2114.9026"
          id="tspan166325-7-4"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1537.0646"
-       y="2074.9026"
-       id="text166321-4-2"><tspan
-         sodipodi:role="line"
-         id="tspan166319-37-5"
-         x="1537.0646"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">3</tspan><tspan
-         sodipodi:role="line"
-         x="1537.0646"
-         y="2094.9026"
-         id="tspan166323-1-4"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1537.0646"
-         y="2114.9026"
-         id="tspan166325-3-2"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1523.6486"
-       y="2074.9026"
-       id="text166321-96-7"><tspan
-         sodipodi:role="line"
-         id="tspan166319-4-5"
-         x="1523.6486"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">4</tspan><tspan
-         sodipodi:role="line"
-         x="1523.6486"
-         y="2094.9026"
-         id="tspan166323-2-7"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1523.6486"
-         y="2114.9026"
-         id="tspan166325-0-5"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1510.2324"
-       y="2074.9026"
-       id="text166321-2-2"><tspan
-         sodipodi:role="line"
-         id="tspan166319-9-2"
-         x="1510.2324"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">5</tspan><tspan
-         sodipodi:role="line"
-         x="1510.2324"
-         y="2094.9026"
-         id="tspan166323-5-8"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1510.2324"
-         y="2114.9026"
-         id="tspan166325-74-6"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1496.8163"
-       y="2074.9026"
-       id="text166321-6-6"><tspan
-         sodipodi:role="line"
-         id="tspan166319-49-0"
-         x="1496.8163"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">6</tspan><tspan
-         sodipodi:role="line"
-         x="1496.8163"
-         y="2094.9026"
-         id="tspan166323-12-0"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1496.8163"
-         y="2114.9026"
-         id="tspan166325-31-9"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1483.4001"
-       y="2074.9026"
-       id="text166321-8-1"><tspan
-         sodipodi:role="line"
-         id="tspan166319-1-2"
-         x="1483.4001"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">7</tspan><tspan
-         sodipodi:role="line"
-         x="1483.4001"
-         y="2094.9026"
-         id="tspan166323-38-6"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1483.4001"
-         y="2114.9026"
-         id="tspan166325-9-94"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1469.984"
-       y="2074.9026"
-       id="text166321-24-82"><tspan
-         sodipodi:role="line"
-         id="tspan166319-5-82"
-         x="1469.984"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">8</tspan><tspan
-         sodipodi:role="line"
-         x="1469.984"
-         y="2094.9026"
-         id="tspan166323-10-7"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1469.984"
-         y="2114.9026"
-         id="tspan166325-01-86"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1456.5679"
-       y="2074.9026"
-       id="text166321-3-7"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-70"
-         x="1456.5679"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="1456.5679"
-         y="2094.9026"
-         id="tspan166323-0-94"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1456.5679"
-         y="2114.9026"
-         id="tspan166325-02-5"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1443.1517"
-       y="2064.9026"
-       id="text166321-3-4-4"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-2"
-         x="1443.1517"
-         y="2064.9026"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="1443.1517"
-         y="2084.9026"
-         id="tspan166323-0-9-2"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1443.1517"
-         y="2104.9026"
-         id="tspan166325-02-8-3"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1443.1517"
-         y="2124.9026"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-9">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-6"
@@ -5198,7 +4216,7 @@
        x="1678.8511"
        y="1834.4022"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_03.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -5216,13 +4234,6 @@
        height="59.416664"
        x="1690.6893"
        y="1840.4414" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-4"
-       width="12"
-       height="112.07648"
-       x="1773.196"
-       y="2033.1455" />
     <use
        x="0"
        y="0"
@@ -5240,130 +4251,26 @@
        width="100%"
        height="100%" />
     <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-5-4"
-       width="59.416679"
-       height="59.416664"
-       x="1795.6458"
-       y="1841.249" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-4"
-       id="use135068-4-4"
-       transform="translate(-2.3828125e-6,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-4-4"
-       id="use135070-7-06"
-       transform="translate(-2.3828125e-6,61.416626)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-8-0"
-       width="59.416679"
-       height="59.416664"
-       x="1902.2968"
-       y="1841.4458" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8-0"
-       id="use135068-6-2"
-       transform="translate(-2.3828125e-6,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-2"
-       id="use135070-0-28"
-       transform="translate(-2.3828125e-6,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-4"
-       id="use135378-4"
-       transform="translate(13.416138)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-3"
+       id="use135388-0"
        width="12"
        height="112.07648"
-       x="1759.7799"
+       x="1853.6927"
        y="2033.1455" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-4"
-       id="use135380-1"
-       transform="translate(26.832278)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-4"
-       id="use135382-1"
-       transform="translate(40.248348)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-4"
-       id="use135384-1"
-       transform="translate(53.664488)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-4"
-       id="use135386-9"
-       transform="translate(67.080628)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-4"
-       id="use135388-0"
-       transform="translate(80.496698)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-4"
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135390-00"
-       transform="translate(93.912838)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-4"
+       width="12"
+       height="112.07648"
+       x="1867.1089"
+       y="2033.1455" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135392-25"
-       transform="translate(107.32898)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       width="12"
+       height="112.07648"
+       x="1880.525"
+       y="2033.1455" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
@@ -5427,158 +4334,6 @@
          y="2114.9026"
          id="tspan166325-3-5"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1841.1908"
-       y="2074.9026"
-       id="text166321-96-76"><tspan
-         sodipodi:role="line"
-         id="tspan166319-4-6"
-         x="1841.1908"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">4</tspan><tspan
-         sodipodi:role="line"
-         x="1841.1908"
-         y="2094.9026"
-         id="tspan166323-2-9"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1841.1908"
-         y="2114.9026"
-         id="tspan166325-0-1"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1827.7747"
-       y="2074.9026"
-       id="text166321-2-4"><tspan
-         sodipodi:role="line"
-         id="tspan166319-9-3"
-         x="1827.7747"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">5</tspan><tspan
-         sodipodi:role="line"
-         x="1827.7747"
-         y="2094.9026"
-         id="tspan166323-5-6"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1827.7747"
-         y="2114.9026"
-         id="tspan166325-74-76"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1814.3585"
-       y="2074.9026"
-       id="text166321-6-9"><tspan
-         sodipodi:role="line"
-         id="tspan166319-49-7"
-         x="1814.3585"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">6</tspan><tspan
-         sodipodi:role="line"
-         x="1814.3585"
-         y="2094.9026"
-         id="tspan166323-12-6"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1814.3585"
-         y="2114.9026"
-         id="tspan166325-31-0"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1800.9424"
-       y="2074.9026"
-       id="text166321-8-9"><tspan
-         sodipodi:role="line"
-         id="tspan166319-1-0"
-         x="1800.9424"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">7</tspan><tspan
-         sodipodi:role="line"
-         x="1800.9424"
-         y="2094.9026"
-         id="tspan166323-38-76"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1800.9424"
-         y="2114.9026"
-         id="tspan166325-9-6"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1787.5262"
-       y="2074.9026"
-       id="text166321-24-87"><tspan
-         sodipodi:role="line"
-         id="tspan166319-5-7"
-         x="1787.5262"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">8</tspan><tspan
-         sodipodi:role="line"
-         x="1787.5262"
-         y="2094.9026"
-         id="tspan166323-10-6"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1787.5262"
-         y="2114.9026"
-         id="tspan166325-01-6"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1774.1101"
-       y="2074.9026"
-       id="text166321-3-5"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-3"
-         x="1774.1101"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="1774.1101"
-         y="2094.9026"
-         id="tspan166323-0-7"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1774.1101"
-         y="2114.9026"
-         id="tspan166325-02-6"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1760.694"
-       y="2064.9026"
-       id="text166321-3-4-9"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-7"
-         x="1760.694"
-         y="2064.9026"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="1760.694"
-         y="2084.9026"
-         id="tspan166323-0-9-26"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1760.694"
-         y="2104.9026"
-         id="tspan166325-02-8-4"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1760.694"
-         y="2124.9026"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-0">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-7"
@@ -5587,7 +4342,7 @@
        x="1996.3933"
        y="1834.4022"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_04.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -5605,13 +4360,6 @@
        height="59.416664"
        x="2008.2317"
        y="1840.4414" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-28"
-       width="12"
-       height="112.07648"
-       x="2090.7383"
-       y="2033.1455" />
     <use
        x="0"
        y="0"
@@ -5635,124 +4383,41 @@
        height="59.416664"
        x="2113.188"
        y="1841.249" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0"
-       id="use135068-4-7"
-       transform="translate(2.1875e-7,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-4-7"
-       id="use135070-7-1"
-       transform="translate(2.1875e-7,61.416626)"
-       width="100%"
-       height="100%" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-8-6"
+       id="rect2386-9-2-43-1-2-5-0-9"
        width="59.416679"
        height="59.416664"
-       x="2219.8391"
-       y="1841.4458" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8-6"
-       id="use135068-6-49"
-       transform="translate(2.1875e-7,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-49"
-       id="use135070-0-5"
-       transform="translate(2.1875e-7,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-28"
-       id="use135378-3"
-       transform="translate(13.4161)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       x="2983.2793"
+       y="575.1651" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-5"
+       id="use135386-0"
        width="12"
        height="112.07648"
-       x="2077.3223"
+       x="2157.8188"
        y="2033.1455" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-28"
-       id="use135380-11"
-       transform="translate(26.8323)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-28"
-       id="use135382-00"
-       transform="translate(40.2484)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-28"
-       id="use135384-7"
-       transform="translate(53.6645)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-28"
-       id="use135386-0"
-       transform="translate(67.0806)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-28"
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135388-81"
-       transform="translate(80.4967)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-28"
+       width="12"
+       height="112.07648"
+       x="2171.2349"
+       y="2033.1455" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135390-6"
-       transform="translate(93.9128)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-28"
+       width="12"
+       height="112.07648"
+       x="2184.6511"
+       y="2033.1455" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135392-4"
-       transform="translate(107.329)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       width="12"
+       height="112.07648"
+       x="2198.0674"
+       y="2033.1455" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
@@ -5837,137 +4502,6 @@
          y="2114.9026"
          id="tspan166325-0-8"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="2145.3169"
-       y="2074.9026"
-       id="text166321-2-9"><tspan
-         sodipodi:role="line"
-         id="tspan166319-9-9"
-         x="2145.3169"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">5</tspan><tspan
-         sodipodi:role="line"
-         x="2145.3169"
-         y="2094.9026"
-         id="tspan166323-5-89"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2145.3169"
-         y="2114.9026"
-         id="tspan166325-74-3"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="2131.9009"
-       y="2074.9026"
-       id="text166321-6-63"><tspan
-         sodipodi:role="line"
-         id="tspan166319-49-6"
-         x="2131.9009"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">6</tspan><tspan
-         sodipodi:role="line"
-         x="2131.9009"
-         y="2094.9026"
-         id="tspan166323-12-04"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2131.9009"
-         y="2114.9026"
-         id="tspan166325-31-4"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="2118.4846"
-       y="2074.9026"
-       id="text166321-8-96"><tspan
-         sodipodi:role="line"
-         id="tspan166319-1-6"
-         x="2118.4846"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">7</tspan><tspan
-         sodipodi:role="line"
-         x="2118.4846"
-         y="2094.9026"
-         id="tspan166323-38-4"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2118.4846"
-         y="2114.9026"
-         id="tspan166325-9-1"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="2105.0686"
-       y="2074.9026"
-       id="text166321-24-9"><tspan
-         sodipodi:role="line"
-         id="tspan166319-5-80"
-         x="2105.0686"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">8</tspan><tspan
-         sodipodi:role="line"
-         x="2105.0686"
-         y="2094.9026"
-         id="tspan166323-10-4"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2105.0686"
-         y="2114.9026"
-         id="tspan166325-01-9"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="2091.6523"
-       y="2074.9026"
-       id="text166321-3-05"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-50"
-         x="2091.6523"
-         y="2074.9026"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="2091.6523"
-         y="2094.9026"
-         id="tspan166323-0-1"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2091.6523"
-         y="2114.9026"
-         id="tspan166325-02-60"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="2078.2363"
-       y="2064.9026"
-       id="text166321-3-4-28"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-8"
-         x="2078.2363"
-         y="2064.9026"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="2078.2363"
-         y="2084.9026"
-         id="tspan166323-0-9-4"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2078.2363"
-         y="2104.9026"
-         id="tspan166325-02-8-9"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2078.2363"
-         y="2124.9026"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-8">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-3"
@@ -5976,7 +4510,7 @@
        x="726.22437"
        y="2151.9443"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_05.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -5994,13 +4528,6 @@
        height="59.416664"
        x="738.06274"
        y="2157.9834" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-1"
-       width="12"
-       height="112.07648"
-       x="820.56934"
-       y="2350.6875" />
     <use
        x="0"
        y="0"
@@ -6032,116 +4559,41 @@
        transform="translate(-5.46875e-6,61.416626)"
        width="100%"
        height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-4-42"
-       id="use135070-7-5"
-       transform="translate(-5.46875e-6,61.416626)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-8-5"
-       width="59.416679"
-       height="59.416664"
-       x="949.67017"
-       y="2158.9878" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8-5"
-       id="use135068-6-0"
-       transform="translate(-5.46875e-6,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-0"
-       id="use135070-0-52"
-       transform="translate(-5.46875e-6,61.416626)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-1"
-       id="use135378-9"
-       transform="translate(13.416095)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-7"
+       id="use135384-81"
        width="12"
        height="112.07648"
-       x="807.15332"
+       x="874.23383"
        y="2350.6875" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-1"
-       id="use135380-7"
-       transform="translate(26.832295)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-1"
-       id="use135382-6"
-       transform="translate(40.248395)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-1"
-       id="use135384-81"
-       transform="translate(53.664495)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-1"
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135386-2"
-       transform="translate(67.080595)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-1"
+       width="12"
+       height="112.07648"
+       x="887.6499"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135388-03"
-       transform="translate(80.496695)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-1"
+       width="12"
+       height="112.07648"
+       x="901.06604"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135390-28"
-       transform="translate(93.912795)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-1"
+       width="12"
+       height="112.07648"
+       x="914.48212"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135392-7"
-       transform="translate(107.32899)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       width="12"
+       height="112.07648"
+       x="927.89832"
+       y="2350.6875" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
@@ -6247,116 +4699,6 @@
          y="2432.4448"
          id="tspan166325-74-8"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="861.73193"
-       y="2392.4448"
-       id="text166321-6-61"><tspan
-         sodipodi:role="line"
-         id="tspan166319-49-60"
-         x="861.73193"
-         y="2392.4448"
-         style="font-size:16px;fill:#ffff00">6</tspan><tspan
-         sodipodi:role="line"
-         x="861.73193"
-         y="2412.4448"
-         id="tspan166323-12-9"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="861.73193"
-         y="2432.4448"
-         id="tspan166325-31-1"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="848.31567"
-       y="2392.4448"
-       id="text166321-8-91"><tspan
-         sodipodi:role="line"
-         id="tspan166319-1-5"
-         x="848.31567"
-         y="2392.4448"
-         style="font-size:16px;fill:#ffff00">7</tspan><tspan
-         sodipodi:role="line"
-         x="848.31567"
-         y="2412.4448"
-         id="tspan166323-38-0"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="848.31567"
-         y="2432.4448"
-         id="tspan166325-9-949"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="834.89966"
-       y="2392.4448"
-       id="text166321-24-6"><tspan
-         sodipodi:role="line"
-         id="tspan166319-5-824"
-         x="834.89966"
-         y="2392.4448"
-         style="font-size:16px;fill:#ffff00">8</tspan><tspan
-         sodipodi:role="line"
-         x="834.89966"
-         y="2412.4448"
-         id="tspan166323-10-65"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="834.89966"
-         y="2432.4448"
-         id="tspan166325-01-3"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="821.4834"
-       y="2392.4448"
-       id="text166321-3-47"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-4"
-         x="821.4834"
-         y="2392.4448"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="821.4834"
-         y="2412.4448"
-         id="tspan166323-0-71"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="821.4834"
-         y="2432.4448"
-         id="tspan166325-02-4"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="808.06738"
-       y="2382.4448"
-       id="text166321-3-4-0"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-48"
-         x="808.06738"
-         y="2382.4448"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="808.06738"
-         y="2402.4448"
-         id="tspan166323-0-9-33"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="808.06738"
-         y="2422.4448"
-         id="tspan166325-02-8-46"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="808.06738"
-         y="2442.4448"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-1">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-5"
@@ -6365,7 +4707,7 @@
        x="1043.7666"
        y="2151.9443"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_06.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -6383,13 +4725,6 @@
        height="59.416664"
        x="1055.6047"
        y="2157.9834" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-9"
-       width="12"
-       height="112.07648"
-       x="1138.1116"
-       y="2350.6875" />
     <use
        x="0"
        y="0"
@@ -6430,107 +4765,47 @@
        width="100%"
        height="100%" />
     <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-8-53"
-       width="59.416679"
-       height="59.416664"
-       x="1267.2123"
-       y="2158.9878" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8-53"
-       id="use135068-6-8"
-       transform="translate(2.734375e-7,61.41662)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-8"
-       id="use135070-0-50"
-       transform="translate(2.734375e-7,61.41662)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-9"
-       id="use135378-5"
-       transform="translate(13.41614)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-66"
+       id="use135382-4"
        width="12"
        height="112.07648"
-       x="1124.6954"
+       x="1178.3599"
        y="2350.6875" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-9"
-       id="use135380-73"
-       transform="translate(26.83228)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-9"
-       id="use135382-4"
-       transform="translate(40.24835)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-9"
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135384-08"
-       transform="translate(53.66449)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-9"
+       width="12"
+       height="112.07648"
+       x="1191.7761"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135386-08"
-       transform="translate(67.08063)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-9"
+       width="12"
+       height="112.07648"
+       x="1205.1923"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135388-1"
-       transform="translate(80.4967)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-9"
+       width="12"
+       height="112.07648"
+       x="1218.6083"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135390-5"
-       transform="translate(93.91284)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-9"
+       width="12"
+       height="112.07648"
+       x="1232.0244"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135392-3"
-       transform="translate(107.32898)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       width="12"
+       height="112.07648"
+       x="1245.4406"
+       y="2350.6875" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
@@ -6657,95 +4932,6 @@
          y="2432.4446"
          id="tspan166325-31-5"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1165.8579"
-       y="2392.4446"
-       id="text166321-8-4"><tspan
-         sodipodi:role="line"
-         id="tspan166319-1-4"
-         x="1165.8579"
-         y="2392.4446"
-         style="font-size:16px;fill:#ffff00">7</tspan><tspan
-         sodipodi:role="line"
-         x="1165.8579"
-         y="2412.4446"
-         id="tspan166323-38-60"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1165.8579"
-         y="2432.4446"
-         id="tspan166325-9-5"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1152.4418"
-       y="2392.4446"
-       id="text166321-24-5"><tspan
-         sodipodi:role="line"
-         id="tspan166319-5-3"
-         x="1152.4418"
-         y="2392.4446"
-         style="font-size:16px;fill:#ffff00">8</tspan><tspan
-         sodipodi:role="line"
-         x="1152.4418"
-         y="2412.4446"
-         id="tspan166323-10-91"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1152.4418"
-         y="2432.4446"
-         id="tspan166325-01-5"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1139.0256"
-       y="2392.4446"
-       id="text166321-3-04"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-9"
-         x="1139.0256"
-         y="2392.4446"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="1139.0256"
-         y="2412.4446"
-         id="tspan166323-0-6"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1139.0256"
-         y="2432.4446"
-         id="tspan166325-02-7"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1125.6095"
-       y="2382.4446"
-       id="text166321-3-4-43"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-0"
-         x="1125.6095"
-         y="2382.4446"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="1125.6095"
-         y="2402.4446"
-         id="tspan166323-0-9-9"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1125.6095"
-         y="2422.4446"
-         id="tspan166325-02-8-6"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1125.6095"
-         y="2442.4446"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-6">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-04"
@@ -6754,7 +4940,7 @@
        x="1361.3088"
        y="2151.9443"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_07.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -6772,13 +4958,6 @@
        height="59.416664"
        x="1373.1471"
        y="2157.9834" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-8"
-       width="12"
-       height="112.07648"
-       x="1455.6538"
-       y="2350.6875" />
     <use
        x="0"
        y="0"
@@ -6825,101 +5004,55 @@
        height="59.416664"
        x="1584.7545"
        y="2158.9878" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8-8"
-       id="use135068-6-08"
-       transform="translate(-5.4687501e-8,61.41662)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-08"
-       id="use135070-0-9"
-       transform="translate(-5.4687501e-8,61.41662)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-8"
-       id="use135378-7"
-       transform="translate(13.41614)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-8"
+       id="use135380-39"
        width="12"
        height="112.07648"
-       x="1442.2377"
+       x="1482.4861"
        y="2350.6875" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-8"
-       id="use135380-39"
-       transform="translate(26.83228)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-8"
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135382-7"
-       transform="translate(40.24835)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-8"
+       width="12"
+       height="112.07648"
+       x="1495.9021"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135384-2"
-       transform="translate(53.66449)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-8"
+       width="12"
+       height="112.07648"
+       x="1509.3184"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135386-5"
-       transform="translate(67.08063)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-8"
+       width="12"
+       height="112.07648"
+       x="1522.7345"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135388-02"
-       transform="translate(80.4967)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-8"
+       width="12"
+       height="112.07648"
+       x="1536.1505"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135390-4"
-       transform="translate(93.912844)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-8"
+       width="12"
+       height="112.07648"
+       x="1549.5667"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135392-80"
-       transform="translate(107.32898)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       width="12"
+       height="112.07648"
+       x="1562.9828"
+       y="2350.6875" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
@@ -7067,74 +5200,6 @@
          y="2432.4446"
          id="tspan166325-9-14"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1469.984"
-       y="2392.4446"
-       id="text166321-24-0"><tspan
-         sodipodi:role="line"
-         id="tspan166319-5-4"
-         x="1469.984"
-         y="2392.4446"
-         style="font-size:16px;fill:#ffff00">8</tspan><tspan
-         sodipodi:role="line"
-         x="1469.984"
-         y="2412.4446"
-         id="tspan166323-10-78"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1469.984"
-         y="2432.4446"
-         id="tspan166325-01-7"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1456.5679"
-       y="2392.4446"
-       id="text166321-3-6"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-8"
-         x="1456.5679"
-         y="2392.4446"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="1456.5679"
-         y="2412.4446"
-         id="tspan166323-0-0"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1456.5679"
-         y="2432.4446"
-         id="tspan166325-02-86"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1443.1517"
-       y="2382.4446"
-       id="text166321-3-4-1"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-45"
-         x="1443.1517"
-         y="2382.4446"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="1443.1517"
-         y="2402.4446"
-         id="tspan166323-0-9-25"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1443.1517"
-         y="2422.4446"
-         id="tspan166325-02-8-93"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1443.1517"
-         y="2442.4446"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-88">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-4"
@@ -7143,7 +5208,7 @@
        x="1678.8511"
        y="2151.9443"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_08.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -7161,13 +5226,6 @@
        height="59.416664"
        x="1690.6893"
        y="2157.9834" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-5"
-       width="12"
-       height="112.07648"
-       x="1773.196"
-       y="2350.6875" />
     <use
        x="0"
        y="0"
@@ -7222,93 +5280,62 @@
        transform="translate(-3.4765625e-6,61.41662)"
        width="100%"
        height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-00"
-       id="use135070-0-09"
-       transform="translate(-3.4765625e-6,61.41662)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-5"
-       id="use135378-8"
-       transform="translate(13.4161)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-0"
+       id="use135378-8"
        width="12"
        height="112.07648"
-       x="1759.7799"
+       x="1786.6122"
        y="2350.6875" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-5"
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135380-9"
-       transform="translate(26.83227)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-5"
+       width="12"
+       height="112.07648"
+       x="1800.0283"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135382-67"
-       transform="translate(40.24835)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-5"
+       width="12"
+       height="112.07648"
+       x="1813.4443"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135384-21"
-       transform="translate(53.664492)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-5"
+       width="12"
+       height="112.07648"
+       x="1826.8606"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135386-44"
-       transform="translate(67.080632)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-5"
+       width="12"
+       height="112.07648"
+       x="1840.2767"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135388-84"
-       transform="translate(80.496702)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-5"
+       width="12"
+       height="112.07648"
+       x="1853.6927"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135390-9"
-       transform="translate(93.912842)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-0-5"
+       width="12"
+       height="112.07648"
+       x="1867.1089"
+       y="2350.6875" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135392-84"
-       transform="translate(107.32898)"
-       width="100%"
-       height="100%"
-       style="stroke:#000000" />
+       width="12"
+       height="112.07648"
+       x="1880.525"
+       y="2350.6875" />
     <text
        xml:space="preserve"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
@@ -7477,53 +5504,6 @@
          y="2432.4446"
          id="tspan166325-01-85"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1774.1101"
-       y="2392.4446"
-       id="text166321-3-1"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-1"
-         x="1774.1101"
-         y="2392.4446"
-         style="font-size:16px;fill:#ffff00">9</tspan><tspan
-         sodipodi:role="line"
-         x="1774.1101"
-         y="2412.4446"
-         id="tspan166323-0-3"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1774.1101"
-         y="2432.4446"
-         id="tspan166325-02-06"
-         style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="1760.694"
-       y="2382.4446"
-       id="text166321-3-4-44"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-75"
-         x="1760.694"
-         y="2382.4446"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="1760.694"
-         y="2402.4446"
-         id="tspan166323-0-9-38"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1760.694"
-         y="2422.4446"
-         id="tspan166325-02-8-2"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="1760.694"
-         y="2442.4446"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-7">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-35"
@@ -7532,7 +5512,7 @@
        x="1996.3934"
        y="2151.9443"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_09.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -7628,13 +5608,6 @@
        width="100%"
        height="100%"
        style="stroke:#000000" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-0-2-31"
-       width="12"
-       height="112.07648"
-       x="2077.3223"
-       y="2350.6875" />
     <use
        x="0"
        y="0"
@@ -7887,32 +5860,6 @@
          y="2432.4446"
          id="tspan166325-02-53"
          style="font-size:16px;fill:#ffff00">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ffff00"
-       x="2078.2363"
-       y="2382.4446"
-       id="text166321-3-4-5"><tspan
-         sodipodi:role="line"
-         id="tspan166319-30-7-9"
-         x="2078.2363"
-         y="2382.4446"
-         style="font-size:16px;fill:#ffff00">1</tspan><tspan
-         sodipodi:role="line"
-         x="2078.2363"
-         y="2402.4446"
-         id="tspan166323-0-9-5"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2078.2363"
-         y="2422.4446"
-         id="tspan166325-02-8-97"
-         style="font-size:16px;fill:#ffff00">0</tspan><tspan
-         sodipodi:role="line"
-         x="2078.2363"
-         y="2442.4446"
-         style="font-size:16px;fill:#ffff00"
-         id="tspan172077-99">0</tspan></text>
     <rect
        style="fill:#aa4400;stroke:#008000;stroke-width:2.45778"
        id="rect846-3-7-8-0-5-0-0-4-4-9-07-2-8-05"
@@ -7921,7 +5868,7 @@
        x="726.22437"
        y="2469.4866"
        ry="0"
-       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/one_10.svg"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundred_10.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -7933,81 +5880,12 @@
        y="-939.87207"
        transform="rotate(90)" />
     <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-1"
-       width="59.416679"
-       height="59.416664"
-       x="738.06274"
-       y="2475.5256" />
-    <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2386-9-2-43-1-2-0-02"
        width="12"
        height="112.07648"
        x="820.56934"
        y="2668.2297" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-1"
-       id="use135068-06"
-       transform="translate(-5.46875e-6,61.416632)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-06"
-       id="use135070-36"
-       transform="translate(-5.46875e-6,61.416632)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-5-9"
-       width="59.416679"
-       height="59.416664"
-       x="843.01904"
-       y="2476.3333" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-9"
-       id="use135068-4-48"
-       transform="translate(-5.46875e-6,61.416632)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-4-48"
-       id="use135070-7-4"
-       transform="translate(-5.46875e-6,61.416632)"
-       width="100%"
-       height="100%" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-8-08"
-       width="59.416679"
-       height="59.416664"
-       x="949.67017"
-       y="2476.53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-8-08"
-       id="use135068-6-44"
-       transform="translate(-5.46875e-6,61.416622)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use135068-6-44"
-       id="use135070-0-8"
-       transform="translate(-5.46875e-6,61.416622)"
-       width="100%"
-       height="100%" />
     <use
        x="0"
        y="0"
@@ -8302,5 +6180,826 @@
          y="2759.9868"
          style="font-size:16px;fill:#ffff00"
          id="tspan172077-69">0</tspan></text>
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6"
+       width="158.26291"
+       height="318.26291"
+       x="2971.2793"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_0.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-9"
+       width="158.26291"
+       height="318.26291"
+       x="3129.5422"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3251.4596,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-1" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-0"
+       width="158.26291"
+       height="318.26291"
+       x="3287.8052"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3370.5724,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3409.7225,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-7" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-6"
+       width="158.26291"
+       height="318.26291"
+       x="3446.0681"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3489.6852,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-39" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3528.8354,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-69" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3567.9855,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-75" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-4"
+       width="158.26291"
+       height="318.26291"
+       x="3604.3311"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_4.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3647.9481,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-36" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3687.0983,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3726.2484,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-4" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3608.798,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415052 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-3" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-2"
+       width="158.26291"
+       height="318.26291"
+       x="3762.594"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_5.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3806.211,18.415034 V 3.4150543 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3845.3612,18.415034 V 3.4150543 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-38" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3884.5113,18.415034 V 3.4150543 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3767.0609,18.415034 V 3.4150543 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-4" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3767.3059,84.063087 V 69.063105 h 15.0004 14.9996 v 14.999982 15.000017 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-7" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-41"
+       width="158.26291"
+       height="318.26291"
+       x="3920.8569"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_6.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3964.474,18.415034 V 3.4150543 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4003.6242,18.415034 V 3.4150543 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4042.7743,18.415034 V 3.4150543 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-68" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3925.3239,18.415034 V 3.4150543 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3964.719,84.063085 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-04" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3925.5689,84.063087 V 69.063105 h 15.0004 14.9996 v 14.999982 15.000017 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-1" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-60"
+       width="158.26291"
+       height="318.26291"
+       x="4079.1199"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_7.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4122.7369,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4161.8871,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4201.0372,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415053 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-22" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4083.5868,18.415034 V 3.4150543 h 15.0004 14.9996 V 18.415034 33.415052 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-73" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4122.9819,84.063085 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-61" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4162.1321,84.063085 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4083.8318,84.063087 V 69.063105 h 15.0004 14.9996 v 14.999982 15.000017 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-23" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1"
+       width="158.26291"
+       height="318.26291"
+       x="4237.3828"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_8.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4280.9999,18.415029 V 3.4150493 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4320.1501,18.415029 V 3.4150493 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4359.3002,18.415029 V 3.4150493 h 15.0004 14.9996 v 14.9999797 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4241.8498,18.415031 V 3.4150493 h 15.0004 14.9996 V 18.415031 33.415048 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4281.2449,84.063081 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4320.3951,84.063081 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4359.5452,84.063081 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4242.0948,84.063083 V 69.063101 h 15.0004 14.9996 V 84.063083 99.0631 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-71" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4"
+       width="158.26291"
+       height="318.26291"
+       x="4395.6455"
+       y="-65.36071"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4439.2628,18.415031 V 3.4150509 h 15.0004 14.9996 V 18.415031 33.41505 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4478.413,18.415031 V 3.4150509 h 15.0004 14.9996 V 18.415031 33.41505 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4517.5631,18.415031 V 3.4150509 h 15.0004 14.9996 V 18.415031 33.41505 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4400.1127,18.415031 V 3.4150509 h 15.0004 14.9996 V 18.415031 33.415049 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4439.5078,84.063082 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4478.658,84.063082 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4517.8081,84.063082 v -14.99998 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4456.4728,136.18758 V 121.1876 h 15.0004 14.9996 v 14.99998 15.00002 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-7-4-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 4400.3577,84.063084 V 69.063102 h 15.0004 14.9996 v 14.999982 15.000017 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-71-2" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-0"
+       width="158.26291"
+       height="318.26291"
+       x="3129.5422"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use191412-2"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-3259.856"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-7"
+       width="158.26291"
+       height="318.26291"
+       x="3287.8052"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use191412-6"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-3418.1189"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-6"
+       id="use191414-9"
+       transform="translate(-41.182082)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-73"
+       width="158.26291"
+       height="318.26291"
+       x="3446.0681"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-0"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-3491.7598"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-0"
+       id="use191412-8"
+       transform="translate(84.62195)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-8"
+       id="use191414-5"
+       transform="translate(-41.18208)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-8"
+       width="158.26291"
+       height="318.26291"
+       x="3604.3311"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_4.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-6"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-3650.0227"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-6"
+       id="use191412-27"
+       transform="translate(84.621946)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-27"
+       id="use191414-0"
+       transform="translate(-41.18208)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-6"
+       id="use191416-7"
+       transform="translate(9.3750003e-8,103.16004)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-4"
+       width="158.26291"
+       height="318.26291"
+       x="3762.594"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_5.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-75"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-3808.2856"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-75"
+       id="use191412-5"
+       transform="translate(84.621948)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-5"
+       id="use191414-8"
+       transform="translate(-41.182082)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-75"
+       id="use191416-0"
+       transform="translate(-1.875e-6,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-75"
+       id="use191420-73"
+       transform="translate(43.439878,103.16004)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-3"
+       width="158.26291"
+       height="318.26291"
+       x="3920.8569"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_6.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-2"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-3966.5486"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-2"
+       id="use191412-0"
+       transform="translate(84.621945)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-0"
+       id="use191414-7"
+       transform="translate(-41.182085)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-2"
+       id="use191416-8"
+       transform="translate(-4.921875e-6,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-2"
+       id="use191420-0"
+       transform="translate(43.439875,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-2"
+       id="use191504-71"
+       transform="translate(84.621945,103.16004)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-1"
+       width="158.26291"
+       height="318.26291"
+       x="4079.1199"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_7.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-28"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-4124.8115"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-28"
+       id="use191412-87"
+       transform="translate(84.621949)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-87"
+       id="use191414-1"
+       transform="translate(-41.182081)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-28"
+       id="use191416-01"
+       transform="translate(-6.2500001e-7,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-28"
+       id="use191418-07"
+       transform="translate(-6.2500001e-7,207.82257)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-28"
+       id="use191420-90"
+       transform="translate(43.439879,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-28"
+       id="use191504-76"
+       transform="translate(84.621949,103.16004)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-6"
+       width="158.26291"
+       height="318.26291"
+       x="4237.3828"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_8.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-4"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-4283.0742"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-4"
+       id="use191412-9"
+       transform="translate(84.622003)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-9"
+       id="use191414-84"
+       transform="translate(-41.1821)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-4"
+       id="use191416-69"
+       transform="translate(3.125e-6,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-4"
+       id="use191418-97"
+       transform="translate(3.125e-6,207.82257)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-4"
+       id="use191420-8"
+       transform="translate(43.439903,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-4"
+       id="use191504-0"
+       transform="translate(84.622003,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-4"
+       id="use191506-1"
+       transform="translate(43.439903,207.82257)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-35"
+       width="158.26291"
+       height="318.26291"
+       x="4395.6455"
+       y="252.90219"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-9"
+       width="90"
+       height="20"
+       x="263.23898"
+       y="-4441.3369"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9"
+       id="use191412-4"
+       transform="translate(84.622)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-4"
+       id="use191414-3"
+       transform="translate(-41.1821)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9"
+       id="use191416-85"
+       transform="translate(0,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9"
+       id="use191418-5"
+       transform="translate(0,207.82257)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9"
+       id="use191420-28"
+       transform="translate(43.4399,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9"
+       id="use191504-31"
+       transform="translate(84.622,103.16004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9"
+       id="use191506-8"
+       transform="translate(43.4399,207.82257)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9"
+       id="use191508-2"
+       transform="translate(84.622,207.82257)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192631"
+       transform="translate(76.915778)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192633"
+       width="100%"
+       height="100%"
+       transform="translate(-2.265625e-6,62.416657)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192717"
+       transform="translate(76.915778,62.416657)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192719"
+       width="100%"
+       height="100%"
+       transform="translate(-2.265625e-6,124.83331)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192721"
+       transform="translate(76.915778,124.83332)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192723"
+       width="100%"
+       height="100%"
+       transform="translate(-2.265625e-6,187.24999)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192725"
+       transform="translate(76.915778,187.24999)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192727"
+       width="100%"
+       height="100%"
+       transform="translate(-2.265625e-6,249.66665)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
+       id="use192729"
+       transform="translate(76.915778,249.66665)"
+       width="100%"
+       height="100%" />
   </g>
 </svg>
