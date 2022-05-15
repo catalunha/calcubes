@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "calcubes"
+    },
+    "calcubes": {
+      "applicationId": "C06GPu9n44VQZ7w1wLPgM8sAnkK0sknCIT23R5aZ"
+    }
+  }
+}
