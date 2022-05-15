@@ -23,7 +23,6 @@ class _DataForOperationState extends State<DataForOperation> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     _number1TEC.text = '';
     _number2TEC.text = '';

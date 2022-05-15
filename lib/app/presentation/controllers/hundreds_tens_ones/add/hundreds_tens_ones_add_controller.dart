@@ -9,17 +9,6 @@ class HundredsTensOnesAddController extends GetxController {
   @override
   void onInit() {
     partsSum = Get.arguments;
-    // print(partsSum.toString());
-    // print(partsSum.number1Hundreds());
-    // print(partsSum.number1Tens());
-    // print(partsSum.number1Ones());
-    // print(partsSum.number2Hundreds());
-    // print(partsSum.number2Tens());
-    // print(partsSum.number2Ones());
-    // print(partsSum.number1);
-    // print(partsSum.operation);
-    // print(partsSum.number2);
-    // print(partsSum.answer());
     ever(_hundreds, (value) => recalculateSum());
     ever(_tens, (value) => recalculateSum());
     ever(_one, (value) => recalculateSum());

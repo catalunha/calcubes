@@ -4,13 +4,11 @@ import 'package:google_fonts/google_fonts.dart';
 class AppAppbar extends AppBar {
   AppAppbar({
     Key? key,
-    // double elevation = 2,
     Function()? logout,
     Function()? onTapTitle,
   }) : super(
             key: key,
             backgroundColor: Colors.white,
-            // elevation: 10,
             centerTitle: true,
             title: InkWell(
               onTap: onTapTitle,
@@ -19,10 +17,6 @@ class AppAppbar extends AppBar {
                 style:
                     GoogleFonts.pacifico(fontSize: 50.0, color: Colors.black),
               ),
-              // child: Image.asset(
-              //   AppAssets.logoAppBar,
-              //   // width: 30,
-              // ),
             ),
             iconTheme: const IconThemeData(
               color: Colors.black,

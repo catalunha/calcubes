@@ -18,8 +18,6 @@ class HomePage extends StatelessWidget {
           child: Column(
             children: [
               Wrap(
-                // spacing: 5,
-                // runSpacing: 5,
                 alignment: WrapAlignment.center,
                 runAlignment: WrapAlignment.center,
                 children: [
@@ -38,8 +36,6 @@ class HomePage extends StatelessWidget {
                 ],
               ),
               Wrap(
-                // spacing: 5,
-                // runSpacing: 5,
                 alignment: WrapAlignment.center,
                 runAlignment: WrapAlignment.center,
                 children: [
@@ -54,8 +50,6 @@ class HomePage extends StatelessWidget {
                 ],
               ),
               Wrap(
-                // spacing: 5,
-                // runSpacing: 5,
                 alignment: WrapAlignment.center,
                 runAlignment: WrapAlignment.center,
                 children: [
@@ -91,26 +85,16 @@ class HomePage extends StatelessWidget {
   SizedBox itemGrid(
       {required String image, required String text, Function()? onTap}) {
     return SizedBox(
-      width: 130, //WEB=300,
+      width: 130,
       height: 140,
-      // padding: const EdgeInsets.all(5),
-      // color: Colors.tealAccent,
       child: InkWell(
         onTap: onTap,
         child: Column(
           mainAxisSize: MainAxisSize.max,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Image.network(
-            //   image,
-            //   width: 120,
-            //   height: 120,
-            //   fit: BoxFit.cover,
-            // ),
             Image.asset(
               image,
-              // height: 150,
-              // width: 100,
               scale: .75,
             ),
             Text(text,

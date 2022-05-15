@@ -6,10 +6,6 @@ class AppAssets {
   static String hundreds = 'assets/images/hundreds.svg';
   static String tensOnes = 'assets/images/tens_ones.svg';
   static String hundredsTensOnes = 'assets/images/hundreds_tens_ones.svg';
-  // // static String addOnes = 'assets/images/add_ones.svg';
-  // // static String subOnes = 'assets/images/sub_ones.svg';
-  // static String addTens = 'assets/images/add_tens.svg';
-  // static String subTens = 'assets/images/sub_tens.svg';
   static String addHundreds = 'assets/images/add_hundreds.svg';
   static String subHundreds = 'assets/images/sub_hundreds.svg';
   static String plusOne = 'assets/images/plus_one.svg';

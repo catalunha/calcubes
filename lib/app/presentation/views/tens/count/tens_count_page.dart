@@ -1,6 +1,6 @@
 import 'package:calcubes/app/presentation/controllers/tens/count/tens_count_controller.dart';
 import 'package:calcubes/app/presentation/views/utils/app_appbar.dart';
-import 'package:calcubes/app/presentation/views/utils/app_assets.dart';
+import 'package:calcubes/app/presentation/views/utils/app_control_ones_tens_hundreds.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -18,82 +18,17 @@ class TensCountPage extends StatelessWidget {
         children: [
           Expanded(
             child: Obx(
-              () => Container(
-                // color: Colors.blue,
-                child: Image.asset(
-                  _tensCountController.tensList[_tensCountController.ten],
-                  gaplessPlayback: true,
-                ),
+              () => Image.asset(
+                _tensCountController.tensList[_tensCountController.ten],
+                gaplessPlayback: true,
               ),
             ),
           ),
-          Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  // Container(
-                  //   color: Colors.blue,
-                  //   child: Image.asset(
-                  //     AppAssets.plusHundred,
-                  //     // width: 200,
-                  //   ),
-                  // ),
-                  // Container(
-                  //   color: Colors.blue,
-                  //   child: Image.asset(
-                  //     AppAssets.plusTen,
-                  //   ),
-                  // ),
-                  InkWell(
-                    child: Container(
-                      // color: Colors.blue,
-                      child: Image.asset(
-                        AppAssets.plusTen,
-                      ),
-                    ),
-                    onTap: () {
-                      _tensCountController.plusTen();
-                      print(_tensCountController.ten);
-                    },
-                  ),
-                ],
-              ),
-              const SizedBox(height: 10),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  // Container(
-                  //   color: Colors.blue,
-                  //   child: Image.asset(
-                  //     AppAssets.lessHundred,
-                  //     // width: 200,
-                  //   ),
-                  // ),
-                  // Container(
-                  //   color: Colors.blue,
-                  //   child: Image.asset(
-                  //     AppAssets.lessTen,
-                  //   ),
-                  // ),
-                  InkWell(
-                    child: Container(
-                      // color: Colors.blue,
-                      child: Image.asset(
-                        AppAssets.lessTen,
-                      ),
-                    ),
-                    onTap: () {
-                      _tensCountController.lessTen();
-                    },
-                  ),
-                ],
-              )
-            ],
+          AppControlOnesTensHundreds(
+            isTens: true,
+            plusTens: _tensCountController.plusTen,
+            minusTens: _tensCountController.lessTen,
           ),
-          const SizedBox(height: 20)
         ],
       ),
     );

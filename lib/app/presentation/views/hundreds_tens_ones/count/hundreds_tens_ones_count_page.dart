@@ -1,6 +1,6 @@
 import 'package:calcubes/app/presentation/controllers/hundreds_tens_ones/count/hundreds_tens_ones_count_controller.dart';
 import 'package:calcubes/app/presentation/views/utils/app_appbar.dart';
-import 'package:calcubes/app/presentation/views/utils/app_assets.dart';
+import 'package:calcubes/app/presentation/views/utils/app_control_ones_tens_hundreds.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -24,12 +24,10 @@ class HundredsTensOnesCountPage extends StatelessWidget {
             child: Obx(
               () => SingleChildScrollView(
                 child: Row(
-                  // crossAxisAlignment: CrossAxisAlignment.center,
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Flexible(
                       child: Column(
-                        // crossAxisAlignment: CrossAxisAlignment.center,
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
@@ -46,7 +44,6 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                     ),
                     Flexible(
                       child: Column(
-                        // crossAxisAlignment: CrossAxisAlignment.center,
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
@@ -61,12 +58,8 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    // const SizedBox(
-                    //   width: 5,
-                    // ),
                     Flexible(
                       child: Column(
-                        // crossAxisAlignment: CrossAxisAlignment.center,
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
@@ -86,99 +79,17 @@ class HundredsTensOnesCountPage extends StatelessWidget {
               ),
             ),
           ),
-          Column(
-            // crossAxisAlignment: CrossAxisAlignment.center,
-            // mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  InkWell(
-                    child: Container(
-                      // color: Colors.blue,
-                      child: Image.asset(
-                        AppAssets.plusHundred,
-                      ),
-                    ),
-                    onTap: () {
-                      _hundredsTensOnesCountController.plusHundred();
-                      print(_hundredsTensOnesCountController.hundred);
-                    },
-                  ),
-                  const SizedBox(width: 80),
-                  InkWell(
-                    child: Container(
-                      // color: Colors.blue,
-                      child: Image.asset(
-                        AppAssets.plusTen,
-                      ),
-                    ),
-                    onTap: () {
-                      _hundredsTensOnesCountController.plusTen();
-                      print(_hundredsTensOnesCountController.ten);
-                    },
-                  ),
-                  const SizedBox(width: 80),
-                  InkWell(
-                    child: Container(
-                      // color: Colors.blue,
-                      child: Image.asset(
-                        AppAssets.plusOne,
-                      ),
-                    ),
-                    onTap: () {
-                      _hundredsTensOnesCountController.plusOne();
-                      print(_hundredsTensOnesCountController.one);
-                    },
-                  ),
-                ],
-              ),
-              const SizedBox(
-                height: 10,
-              ),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  InkWell(
-                    child: Container(
-                      // color: Colors.blue,
-                      child: Image.asset(
-                        AppAssets.lessHundred,
-                      ),
-                    ),
-                    onTap: () {
-                      _hundredsTensOnesCountController.lessHundred();
-                    },
-                  ),
-                  const SizedBox(width: 80),
-                  InkWell(
-                    child: Container(
-                      // color: Colors.blue,
-                      child: Image.asset(
-                        AppAssets.lessTen,
-                      ),
-                    ),
-                    onTap: () {
-                      _hundredsTensOnesCountController.lessTen();
-                    },
-                  ),
-                  const SizedBox(width: 80),
-                  InkWell(
-                    child: Container(
-                      // color: Colors.blue,
-                      child: Image.asset(
-                        AppAssets.lessOne,
-                      ),
-                    ),
-                    onTap: () {
-                      _hundredsTensOnesCountController.lessOne();
-                    },
-                  ),
-                ],
-              )
-            ],
+          AppControlOnesTensHundreds(
+            isOnes: true,
+            plusOnes: _hundredsTensOnesCountController.plusOne,
+            minusOnes: _hundredsTensOnesCountController.lessOne,
+            isTens: true,
+            plusTens: _hundredsTensOnesCountController.plusTen,
+            minusTens: _hundredsTensOnesCountController.lessTen,
+            isHundreds: true,
+            plusHundreds: _hundredsTensOnesCountController.plusHundred,
+            minusHundreds: _hundredsTensOnesCountController.lessHundred,
           ),
-          const SizedBox(height: 20)
         ],
       ),
     );
