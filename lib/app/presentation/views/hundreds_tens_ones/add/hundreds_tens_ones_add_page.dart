@@ -143,7 +143,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                       : 'minus'),
                   // number 2
                   Container(
-                    color: Colors.black,
+                    // color: Colors.black,
                     child: Row(
                       // crossAxisAlignment: CrossAxisAlignment.center,
                       mainAxisAlignment: MainAxisAlignment.center,
@@ -301,14 +301,15 @@ class HundredsTensOnesAddPage extends StatelessWidget {
             ),
           ),
           Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            mainAxisAlignment: MainAxisAlignment.center,
+            // crossAxisAlignment: CrossAxisAlignment.center,
+            // mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   InkWell(
-                    child: Container(
+                    child: SizedBox(
+                      // width: 100,
                       // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusHundred,
@@ -319,6 +320,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                       print(_hundredsTensOnesAddController.hundred);
                     },
                   ),
+                  const SizedBox(width: 80),
                   InkWell(
                     child: Container(
                       // color: Colors.blue,
@@ -331,6 +333,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                       print(_hundredsTensOnesAddController.ten);
                     },
                   ),
+                  const SizedBox(width: 80),
                   InkWell(
                     child: Container(
                       // color: Colors.blue,
@@ -349,7 +352,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                 height: 10,
               ),
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   InkWell(
                     child: Container(
@@ -362,6 +365,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                       _hundredsTensOnesAddController.lessHundred();
                     },
                   ),
+                  const SizedBox(width: 80),
                   InkWell(
                     child: Container(
                       // color: Colors.blue,
@@ -373,6 +377,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                       _hundredsTensOnesAddController.lessTen();
                     },
                   ),
+                  const SizedBox(width: 80),
                   InkWell(
                     child: Container(
                       // color: Colors.blue,

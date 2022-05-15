@@ -15,7 +15,7 @@ class AppAppbar extends AppBar {
             title: InkWell(
               onTap: onTapTitle,
               child: Text(
-                'Calcubes',
+                'CalCubes',
                 style:
                     GoogleFonts.pacifico(fontSize: 50.0, color: Colors.black),
               ),

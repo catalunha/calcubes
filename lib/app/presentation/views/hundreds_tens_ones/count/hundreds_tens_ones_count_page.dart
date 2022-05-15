@@ -87,11 +87,11 @@ class HundredsTensOnesCountPage extends StatelessWidget {
             ),
           ),
           Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            mainAxisAlignment: MainAxisAlignment.center,
+            // crossAxisAlignment: CrossAxisAlignment.center,
+            // mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   InkWell(
                     child: Container(
@@ -105,6 +105,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                       print(_hundredsTensOnesCountController.hundred);
                     },
                   ),
+                  const SizedBox(width: 80),
                   InkWell(
                     child: Container(
                       // color: Colors.blue,
@@ -117,6 +118,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                       print(_hundredsTensOnesCountController.ten);
                     },
                   ),
+                  const SizedBox(width: 80),
                   InkWell(
                     child: Container(
                       // color: Colors.blue,
@@ -135,7 +137,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                 height: 10,
               ),
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   InkWell(
                     child: Container(
@@ -148,6 +150,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                       _hundredsTensOnesCountController.lessHundred();
                     },
                   ),
+                  const SizedBox(width: 80),
                   InkWell(
                     child: Container(
                       // color: Colors.blue,
@@ -159,6 +162,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                       _hundredsTensOnesCountController.lessTen();
                     },
                   ),
+                  const SizedBox(width: 80),
                   InkWell(
                     child: Container(
                       // color: Colors.blue,

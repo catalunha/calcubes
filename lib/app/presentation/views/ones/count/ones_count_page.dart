@@ -28,6 +28,7 @@ class OnesCountPage extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              const SizedBox(height: 5),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
@@ -58,7 +59,7 @@ class OnesCountPage extends StatelessWidget {
                   ),
                 ],
               ),
-              const SizedBox(height: 10),
+              const SizedBox(height: 5),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
@@ -90,7 +91,7 @@ class OnesCountPage extends StatelessWidget {
               )
             ],
           ),
-          const SizedBox(height: 20)
+          const SizedBox(height: 5)
         ],
       ),
     );

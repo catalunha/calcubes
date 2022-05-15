@@ -22,57 +22,59 @@ class TensOnesCountPage extends StatelessWidget {
         children: [
           Expanded(
             child: Obx(
-              () => Row(
-                // crossAxisAlignment: CrossAxisAlignment.center,
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Flexible(
-                    child: Column(
-                      // crossAxisAlignment: CrossAxisAlignment.center,
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          '${_hundredsTensOnesCountController.ten}',
-                          style: GoogleFonts.pacifico(fontSize: 50.0),
-                        ),
-                        Image.asset(
-                          _hundredsTensOnesCountController
-                              .tensList[_hundredsTensOnesCountController.ten],
-                          gaplessPlayback: true,
-                        ),
-                      ],
+              () => SingleChildScrollView(
+                child: Row(
+                  // crossAxisAlignment: CrossAxisAlignment.center,
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Flexible(
+                      child: Column(
+                        // crossAxisAlignment: CrossAxisAlignment.center,
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            '${_hundredsTensOnesCountController.ten}',
+                            style: GoogleFonts.pacifico(fontSize: 50.0),
+                          ),
+                          Image.asset(
+                            _hundredsTensOnesCountController
+                                .tensList[_hundredsTensOnesCountController.ten],
+                            gaplessPlayback: true,
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                  // const SizedBox(
-                  //   width: 5,
-                  // ),
-                  Flexible(
-                    child: Column(
-                      // crossAxisAlignment: CrossAxisAlignment.center,
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          '${_hundredsTensOnesCountController.one}',
-                          style: GoogleFonts.pacifico(fontSize: 50.0),
-                        ),
-                        Image.asset(
-                          _hundredsTensOnesCountController
-                              .onesList[_hundredsTensOnesCountController.one],
-                          gaplessPlayback: true,
-                        ),
-                      ],
+                    // const SizedBox(
+                    //   width: 5,
+                    // ),
+                    Flexible(
+                      child: Column(
+                        // crossAxisAlignment: CrossAxisAlignment.center,
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            '${_hundredsTensOnesCountController.one}',
+                            style: GoogleFonts.pacifico(fontSize: 50.0),
+                          ),
+                          Image.asset(
+                            _hundredsTensOnesCountController
+                                .onesList[_hundredsTensOnesCountController.one],
+                            gaplessPlayback: true,
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                ],
+                  ],
+                ),
               ),
             ),
           ),
           Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            mainAxisAlignment: MainAxisAlignment.center,
+            // crossAxisAlignment: CrossAxisAlignment.center,
+            // mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   // Container(
                   //   color: Colors.blue,
@@ -93,6 +95,8 @@ class TensOnesCountPage extends StatelessWidget {
                       print(_hundredsTensOnesCountController.ten);
                     },
                   ),
+                  const SizedBox(width: 80),
+
                   InkWell(
                     child: Container(
                       // color: Colors.blue,
@@ -111,7 +115,7 @@ class TensOnesCountPage extends StatelessWidget {
                 height: 10,
               ),
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   // Container(
                   //   color: Colors.blue,
@@ -131,6 +135,8 @@ class TensOnesCountPage extends StatelessWidget {
                       _hundredsTensOnesCountController.lessTen();
                     },
                   ),
+                  const SizedBox(width: 80),
+
                   InkWell(
                     child: Container(
                       // color: Colors.blue,
