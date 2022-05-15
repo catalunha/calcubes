@@ -4,6 +4,7 @@ import 'package:calcubes/app/presentation/views/utils/app_number_formfield.dart'
 import 'package:calcubes/app/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:validatorless/validatorless.dart';
 
 class DataForOperation extends StatefulWidget {
@@ -32,7 +33,14 @@ class _DataForOperationState extends State<DataForOperation> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Inform the values'),
+        iconTheme: const IconThemeData(
+          color: Colors.black,
+        ),
+        title: Text(
+          'Add the values',
+          style: GoogleFonts.pacifico(fontSize: 30.0, color: Colors.black),
+        ),
+        backgroundColor: Colors.white,
       ),
       body: Form(
         key: _formKey,
@@ -42,26 +50,30 @@ class _DataForOperationState extends State<DataForOperation> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               AppNumberFormField(
-                label: 'Number 1',
+                label: widget.operation == '+'
+                    ? 'Addend one'
+                    : 'Minuend one (Big number)',
                 controller: _number1TEC,
-                validator: Validatorless.required('Number 1 is required'),
+                validator: Validatorless.required('Addend one is required'),
               ),
               const SizedBox(
-                height: 50,
+                height: 10,
               ),
-              Text(widget.operation),
+              Text(widget.operation == '+' ? 'plus' : 'minus'),
               const SizedBox(
-                height: 50,
+                height: 10,
               ),
               AppNumberFormField(
-                label: 'Number 2',
+                label: widget.operation == '+'
+                    ? 'Addend two'
+                    : 'Subtrahend two (Small number)',
                 controller: _number2TEC,
-                validator: Validatorless.required('Number 2 is required'),
+                validator: Validatorless.required('Addend two is required'),
               ),
               const SizedBox(
-                height: 50,
+                height: 20,
               ),
-              TextButton(
+              ElevatedButton(
                   onPressed: () async {
                     final formValid =
                         _formKey.currentState?.validate() ?? false;
@@ -75,13 +87,25 @@ class _DataForOperationState extends State<DataForOperation> {
                         Get.toNamed(Routes.hundredsTensOnesAdd,
                             arguments: partsOfOperation);
                       } on PartsOfOperationException catch (error) {
-                        Get.snackbar('Erro ${error.code}', error.message,
+                        Get.snackbar('Error ${error.code}', error.message,
                             backgroundColor: Colors.red,
                             margin: const EdgeInsets.all(20));
                       }
                     }
                   },
-                  child: const Text('Calculate'))
+                  style: ButtonStyle(
+                    shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                      RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(18.0),
+                        // side: const BorderSide(color: Colors.red),
+                      ),
+                    ),
+                  ),
+                  child: Text(
+                    widget.operation == '+'
+                        ? 'Find the sum'
+                        : 'Find the difference',
+                  ))
             ],
           ),
         ),

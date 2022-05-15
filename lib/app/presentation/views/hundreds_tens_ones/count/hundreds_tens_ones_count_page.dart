@@ -95,7 +95,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                 children: [
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusHundred,
                       ),
@@ -107,7 +107,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusTen,
                       ),
@@ -119,7 +119,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusOne,
                       ),
@@ -139,7 +139,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                 children: [
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessHundred,
                       ),
@@ -150,7 +150,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessTen,
                       ),
@@ -161,7 +161,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessOne,
                       ),

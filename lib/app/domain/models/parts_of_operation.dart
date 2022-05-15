@@ -98,15 +98,31 @@ class PartsOfOperation {
         return true;
       } else {
         throw PartsOfOperationException(
-            code: 1, message: 'O resultado não pode ser maior que 999');
+            code: 1, message: "I'm sorry! Your answer can't be above 999.");
       }
     }
     if (operation == '-') {
-      if (number2Int <= number1Int) {
+      if ((number1Int <= 999) &&
+          (number2Int <= 999) &&
+          (number2Int <= number1Int)) {
         return true;
       } else {
-        throw PartsOfOperationException(
-            code: 1, message: 'O resultado não pode ser negativo');
+        if (number1Int > 999) {
+          throw PartsOfOperationException(
+              code: 2,
+              message: "I'm sorry! Your big number can't be above 999.");
+        }
+        if (number2Int > 999) {
+          throw PartsOfOperationException(
+              code: 3,
+              message: "I'm sorry! Your small number can't be above 999.");
+        }
+        if (number2Int > number1Int) {
+          throw PartsOfOperationException(
+              code: 4,
+              message:
+                  "I'm sorry! Your small number cannot be above then big number.");
+        }
       }
     }
     return result;

@@ -1,5 +1,5 @@
-import 'package:calcubes/app/presentation/views/utils/app_assets.dart';
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class AppAppbar extends AppBar {
   AppAppbar({
@@ -14,10 +14,15 @@ class AppAppbar extends AppBar {
             centerTitle: true,
             title: InkWell(
               onTap: onTapTitle,
-              child: Image.asset(
-                AppAssets.logoAppBar,
-                // width: 30,
+              child: Text(
+                'Calcubes',
+                style:
+                    GoogleFonts.pacifico(fontSize: 50.0, color: Colors.black),
               ),
+              // child: Image.asset(
+              //   AppAssets.logoAppBar,
+              //   // width: 30,
+              // ),
             ),
             iconTheme: const IconThemeData(
               color: Colors.black,

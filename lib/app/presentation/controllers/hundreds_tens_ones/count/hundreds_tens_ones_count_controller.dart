@@ -131,7 +131,6 @@ class HundredsTensOnesCountController extends GetxController {
     AppAssets.ones7,
     AppAssets.ones8,
     AppAssets.ones9,
-    AppAssets.ones0,
   ];
   //================
   resetHundredsTensOnes() {

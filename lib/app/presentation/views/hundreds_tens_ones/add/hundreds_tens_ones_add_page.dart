@@ -25,73 +25,122 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                 children: [
                   // number 1
                   Container(
-                    color: Colors.black,
+                    // color: Colors.black,
                     child: Row(
                       // crossAxisAlignment: CrossAxisAlignment.center,
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Flexible(
-                          child: Column(
-                            // crossAxisAlignment: CrossAxisAlignment.center,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              // Text(
-                              //   '${_hundredsTensOnesAddController.hundred}',
-                              //   style: GoogleFonts.pacifico(fontSize: 50.0),
-                              // ),
-                              Image.asset(
-                                _hundredsTensOnesAddController.hundredsList[
-                                    _hundredsTensOnesAddController.partsSum
-                                        .number1Hundreds()],
-                                gaplessPlayback: true,
-                              ),
-                            ],
-                          ),
+                          child: Obx(() => Container(
+                                // crossAxisAlignment: CrossAxisAlignment.center,
+                                // mainAxisAlignment: MainAxisAlignment.center,
+                                child:
+                                    // Text(
+                                    //   '${_hundredsTensOnesAddController.hundred}',
+                                    //   style: GoogleFonts.pacifico(fontSize: 50.0),
+                                    // ),
+                                    _hundredsTensOnesAddController
+                                            .lostHundred.value
+                                        ? Image.asset(
+                                            _hundredsTensOnesAddController
+                                                    .minusMiniHundredsList[
+                                                _hundredsTensOnesAddController
+                                                    .partsSum
+                                                    .number1Hundreds()],
+                                            gaplessPlayback: true,
+                                          )
+                                        : InkWell(
+                                            onTap:
+                                                _hundredsTensOnesAddController
+                                                        .isSubtraction.value
+                                                    ? () {
+                                                        _hundredsTensOnesAddController
+                                                            .lost('hundred', 1);
+                                                      }
+                                                    : null,
+                                            child: Image.asset(
+                                              _hundredsTensOnesAddController
+                                                      .hundredsList[
+                                                  _hundredsTensOnesAddController
+                                                      .partsSum
+                                                      .number1Hundreds()],
+                                              gaplessPlayback: true,
+                                            ),
+                                          ),
+                              )),
                         ),
                         Flexible(
-                          child: Column(
-                            // crossAxisAlignment: CrossAxisAlignment.center,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              // Text(
-                              //   '${_hundredsTensOnesAddController.ten}',
-                              //   style: GoogleFonts.pacifico(fontSize: 50.0),
-                              // ),
-                              Image.asset(
-                                _hundredsTensOnesAddController.tensList[
-                                    _hundredsTensOnesAddController.partsSum
-                                        .number1Tens()],
-                                gaplessPlayback: true,
-                              ),
-                            ],
-                          ),
+                          child: Obx(() => Container(
+                                child: _hundredsTensOnesAddController
+                                        .lostTen.value
+                                    ? Image.asset(
+                                        _hundredsTensOnesAddController
+                                                .minusMiniTensList[
+                                            _hundredsTensOnesAddController
+                                                .partsSum
+                                                .number1Tens()],
+                                        gaplessPlayback: true,
+                                      )
+                                    : InkWell(
+                                        onTap: _hundredsTensOnesAddController
+                                                .isSubtraction.value
+                                            ? () {
+                                                _hundredsTensOnesAddController
+                                                    .lost('ten', 1);
+                                              }
+                                            : null,
+                                        child: Image.asset(
+                                          _hundredsTensOnesAddController
+                                                  .tensList[
+                                              _hundredsTensOnesAddController
+                                                  .partsSum
+                                                  .number1Tens()],
+                                          gaplessPlayback: true,
+                                        ),
+                                      ),
+                              )),
                         ),
-                        // const SizedBox(
-                        //   width: 5,
-                        // ),
                         Flexible(
-                          child: Column(
-                            // crossAxisAlignment: CrossAxisAlignment.center,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              // Text(
-                              //   '${_hundredsTensOnesAddController.one}',
-                              //   style: GoogleFonts.pacifico(fontSize: 50.0),
-                              // ),
-                              Image.asset(
-                                _hundredsTensOnesAddController.onesList[
-                                    _hundredsTensOnesAddController.partsSum
-                                        .number1Ones()],
-                                gaplessPlayback: true,
-                              ),
-                            ],
-                          ),
+                          child: Obx(() => Container(
+                                child: _hundredsTensOnesAddController
+                                        .lostOne.value
+                                    ? Image.asset(
+                                        _hundredsTensOnesAddController
+                                                .minusMiniOnesList[
+                                            _hundredsTensOnesAddController
+                                                .partsSum
+                                                .number1Ones()],
+                                        gaplessPlayback: true,
+                                      )
+                                    : InkWell(
+                                        onTap: _hundredsTensOnesAddController
+                                                .isSubtraction.value
+                                            ? () {
+                                                _hundredsTensOnesAddController.lost(
+                                                    'one',
+                                                    _hundredsTensOnesAddController
+                                                        .partsSum
+                                                        .number1Ones());
+                                              }
+                                            : null,
+                                        child: Image.asset(
+                                          _hundredsTensOnesAddController
+                                                  .onesList[
+                                              _hundredsTensOnesAddController
+                                                  .partsSum
+                                                  .number1Ones()],
+                                          gaplessPlayback: true,
+                                        ),
+                                      ),
+                              )),
                         ),
                       ],
                     ),
                   ),
                   //
-                  Text(_hundredsTensOnesAddController.partsSum.operation),
+                  Text(_hundredsTensOnesAddController.partsSum.operation == '+'
+                      ? 'plus'
+                      : 'minus'),
                   // number 2
                   Container(
                     color: Colors.black,
@@ -159,15 +208,13 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                       ],
                     ),
                   ),
-                  const Divider(
-                    color: Colors.black,
-                  ),
+                  const Text('equals'),
                   Obx(
                     () => Column(
                       children: [
                         // soma
                         Container(
-                          color: Colors.black,
+                          // color: Colors.black,
                           child: Row(
                             // crossAxisAlignment: CrossAxisAlignment.center,
                             mainAxisAlignment: MainAxisAlignment.center,
@@ -239,10 +286,14 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                           width: double.infinity,
                           height: 20,
                           alignment: Alignment.center,
-                          child: Text(
-                              'Your answer is ${_hundredsTensOnesAddController.answer}. And it\'s ${_hundredsTensOnesAddController.isAnswerCorrect.value ? "correct" : "incorrect"}'),
+                          child: _hundredsTensOnesAddController
+                                  .isAnswerCorrect.value
+                              ? Text(
+                                  'You got it! The answer is ${_hundredsTensOnesAddController.answer}.')
+                              : Text(
+                                  'Oops! You have ${_hundredsTensOnesAddController.answer}. Keep trying!'),
                         )
-                      ],
+                      ], //I'm sorry! Your answer can't be above 999.
                     ),
                   ),
                 ],
@@ -258,7 +309,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                 children: [
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusHundred,
                       ),
@@ -270,7 +321,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusTen,
                       ),
@@ -282,7 +333,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusOne,
                       ),
@@ -302,7 +353,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                 children: [
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessHundred,
                       ),
@@ -313,7 +364,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessTen,
                       ),
@@ -324,7 +375,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessOne,
                       ),

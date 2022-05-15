@@ -50,7 +50,7 @@ class HundredsCountPage extends StatelessWidget {
                   // ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusHundred,
                       ),
@@ -83,7 +83,7 @@ class HundredsCountPage extends StatelessWidget {
                   // ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessHundred,
                       ),

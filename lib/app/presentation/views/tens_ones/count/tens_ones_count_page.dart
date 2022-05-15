@@ -83,7 +83,7 @@ class TensOnesCountPage extends StatelessWidget {
                   // ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusTen,
                       ),
@@ -95,7 +95,7 @@ class TensOnesCountPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusOne,
                       ),
@@ -122,7 +122,7 @@ class TensOnesCountPage extends StatelessWidget {
                   // ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessTen,
                       ),
@@ -133,7 +133,7 @@ class TensOnesCountPage extends StatelessWidget {
                   ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessOne,
                       ),

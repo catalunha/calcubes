@@ -46,7 +46,7 @@ class OnesCountPage extends StatelessWidget {
                   // ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.plusOne,
                       ),
@@ -58,6 +58,7 @@ class OnesCountPage extends StatelessWidget {
                   ),
                 ],
               ),
+              const SizedBox(height: 10),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
@@ -76,7 +77,7 @@ class OnesCountPage extends StatelessWidget {
                   // ),
                   InkWell(
                     child: Container(
-                      color: Colors.blue,
+                      // color: Colors.blue,
                       child: Image.asset(
                         AppAssets.lessOne,
                       ),
