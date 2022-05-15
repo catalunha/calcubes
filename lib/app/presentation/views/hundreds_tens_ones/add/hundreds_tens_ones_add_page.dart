@@ -43,6 +43,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                 _hundredsTensOnesAddController.hundredsList[
                                     _hundredsTensOnesAddController.partsSum
                                         .number1Hundreds()],
+                                gaplessPlayback: true,
                               ),
                             ],
                           ),
@@ -60,6 +61,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                 _hundredsTensOnesAddController.tensList[
                                     _hundredsTensOnesAddController.partsSum
                                         .number1Tens()],
+                                gaplessPlayback: true,
                               ),
                             ],
                           ),
@@ -80,6 +82,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                 _hundredsTensOnesAddController.onesList[
                                     _hundredsTensOnesAddController.partsSum
                                         .number1Ones()],
+                                gaplessPlayback: true,
                               ),
                             ],
                           ),
@@ -109,6 +112,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                 _hundredsTensOnesAddController.hundredsList[
                                     _hundredsTensOnesAddController.partsSum
                                         .number2Hundreds()],
+                                gaplessPlayback: true,
                               ),
                             ],
                           ),
@@ -126,6 +130,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                 _hundredsTensOnesAddController.tensList[
                                     _hundredsTensOnesAddController.partsSum
                                         .number2Tens()],
+                                gaplessPlayback: true,
                               ),
                             ],
                           ),
@@ -146,6 +151,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                 _hundredsTensOnesAddController.onesList[
                                     _hundredsTensOnesAddController.partsSum
                                         .number2Ones()],
+                                gaplessPlayback: true,
                               ),
                             ],
                           ),
@@ -180,6 +186,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                               .hundredsList[
                                           _hundredsTensOnesAddController
                                               .hundred],
+                                      gaplessPlayback: true,
                                     ),
                                   ],
                                 ),
@@ -196,6 +203,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                     Image.asset(
                                       _hundredsTensOnesAddController.tensList[
                                           _hundredsTensOnesAddController.ten],
+                                      gaplessPlayback: true,
                                     ),
                                   ],
                                 ),
@@ -215,6 +223,7 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                                     Image.asset(
                                       _hundredsTensOnesAddController.onesList[
                                           _hundredsTensOnesAddController.one],
+                                      gaplessPlayback: true,
                                     ),
                                   ],
                                 ),

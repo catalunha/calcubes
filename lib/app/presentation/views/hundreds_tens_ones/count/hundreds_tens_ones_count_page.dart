@@ -39,6 +39,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                           Image.asset(
                             _hundredsTensOnesCountController.hundredsList[
                                 _hundredsTensOnesCountController.hundred],
+                            gaplessPlayback: true,
                           ),
                         ],
                       ),
@@ -55,6 +56,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                           Image.asset(
                             _hundredsTensOnesCountController
                                 .tensList[_hundredsTensOnesCountController.ten],
+                            gaplessPlayback: true,
                           ),
                         ],
                       ),
@@ -74,6 +76,7 @@ class HundredsTensOnesCountPage extends StatelessWidget {
                           Image.asset(
                             _hundredsTensOnesCountController
                                 .onesList[_hundredsTensOnesCountController.one],
+                            gaplessPlayback: true,
                           ),
                         ],
                       ),

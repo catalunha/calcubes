@@ -23,6 +23,7 @@ class HundredsCountPage extends StatelessWidget {
                 child: Image.asset(
                   _hundredsCountController
                       .hundredsList[_hundredsCountController.hundred],
+                  gaplessPlayback: true,
                 ),
               ),
             ),

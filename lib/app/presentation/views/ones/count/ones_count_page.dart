@@ -20,6 +20,7 @@ class OnesCountPage extends StatelessWidget {
             child: Obx(
               () => Image.asset(
                 _onesCountController.onesList[_onesCountController.one],
+                gaplessPlayback: true,
               ),
             ),
           ),

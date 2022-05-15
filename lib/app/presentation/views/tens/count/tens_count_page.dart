@@ -22,6 +22,7 @@ class TensCountPage extends StatelessWidget {
                 // color: Colors.blue,
                 child: Image.asset(
                   _tensCountController.tensList[_tensCountController.ten],
+                  gaplessPlayback: true,
                 ),
               ),
             ),
