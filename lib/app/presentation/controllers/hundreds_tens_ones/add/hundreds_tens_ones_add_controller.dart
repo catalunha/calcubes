@@ -5,13 +5,14 @@ import 'package:get/get.dart';
 class HundredsTensOnesAddController extends GetxController {
   var answer = 0.obs;
   var isAnswerCorrect = false.obs;
+  var messageAnswer = ''.obs;
   late PartsOfOperation partsSum;
   @override
   void onInit() {
     partsSum = Get.arguments;
-    ever(_hundreds, (value) => recalculateSum());
-    ever(_tens, (value) => recalculateSum());
-    ever(_one, (value) => recalculateSum());
+    // ever(_hundreds, (value) => recalculateSum());
+    // ever(_tens, (value) => recalculateSum());
+    // ever(_one, (value) => recalculateSum());
     if (partsSum.operation == '-') {
       isSubtraction(true);
     }
@@ -27,6 +28,9 @@ class HundredsTensOnesAddController extends GetxController {
     }
     if (answer.value == partsSum.answer()) {
       isAnswerCorrect(true);
+      messageAnswer('You got it! The answer is $answer.');
+    } else {
+      messageAnswer('Oops! You have $answer. Keep trying!');
     }
   }
 
@@ -204,19 +208,19 @@ class HundredsTensOnesAddController extends GetxController {
   var lostTen = false.obs;
   var lostHundred = false.obs;
   void lost(String type, int value) {
-    if (type == 'one') {
+    if (_one.value > 0 && type == 'one') {
       lostOne(true);
       for (var i = 0; i < value; i++) {
         plusOne();
       }
     }
-    if (type == 'ten') {
+    if (partsSum.number1Tens() > 0 && type == 'ten') {
       lostTen(true);
       for (var i = 0; i < value; i++) {
         plusTen();
       }
     }
-    if (type == 'hundred') {
+    if (partsSum.number1Hundreds() > 0 && type == 'hundred') {
       lostHundred(true);
       for (var i = 0; i < value; i++) {
         plusHundred();

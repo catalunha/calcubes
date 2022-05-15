@@ -1,5 +1,6 @@
 import 'package:calcubes/app/domain/models/parts_of_operation.dart';
 import 'package:calcubes/app/domain/models/parts_of_operation_exception.dart';
+import 'package:calcubes/app/presentation/views/utils/app_assets.dart';
 import 'package:calcubes/app/presentation/views/utils/app_number_formfield.dart';
 import 'package:calcubes/app/routes.dart';
 import 'package:flutter/material.dart';
@@ -45,38 +46,45 @@ class _DataForOperationState extends State<DataForOperation> {
         key: _formKey,
         child: Center(
           child: SingleChildScrollView(
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.center,
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                const SizedBox(
-                  height: 10,
-                ),
-                AppNumberFormField(
-                  label: widget.operation == '+'
-                      ? 'Addend one'
-                      : 'Minuend one (Big number)',
-                  controller: _number1TEC,
-                  validator: Validatorless.required('Addend one is required'),
-                ),
-                const SizedBox(
-                  height: 10,
-                ),
-                Text(widget.operation == '+' ? 'plus' : 'minus'),
-                const SizedBox(
-                  height: 10,
-                ),
-                AppNumberFormField(
-                  label: widget.operation == '+'
-                      ? 'Addend two'
-                      : 'Subtrahend two (Small number)',
-                  controller: _number2TEC,
-                  validator: Validatorless.required('Addend two is required'),
-                ),
-                const SizedBox(
-                  height: 20,
-                ),
-                ElevatedButton(
+            child: SizedBox(
+              width: 250,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  AppNumberFormField(
+                    label: widget.operation == '+'
+                        ? 'Addend one'
+                        : 'Minuend (Big number)',
+                    controller: _number1TEC,
+                    validator: Validatorless.required('Number one is required'),
+                  ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  // Text(widget.operation == '+' ? 'plus' : 'minus'),
+                  const SizedBox(height: 2),
+                  widget.operation == '+'
+                      ? Image.asset(AppAssets.plus)
+                      : Image.asset(AppAssets.minus),
+                  const SizedBox(height: 2),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  AppNumberFormField(
+                    label: widget.operation == '+'
+                        ? 'Addend two'
+                        : 'Subtrahend (Small number)',
+                    controller: _number2TEC,
+                    validator: Validatorless.required('Number two is required'),
+                  ),
+                  const SizedBox(
+                    height: 20,
+                  ),
+                  ElevatedButton(
                     onPressed: () async {
                       final formValid =
                           _formKey.currentState?.validate() ?? false;
@@ -108,8 +116,10 @@ class _DataForOperationState extends State<DataForOperation> {
                       widget.operation == '+'
                           ? 'Find the sum'
                           : 'Find the difference',
-                    ))
-              ],
+                    ),
+                  )
+                ],
+              ),
             ),
           ),
         ),

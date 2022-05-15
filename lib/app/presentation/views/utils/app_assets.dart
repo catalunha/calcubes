@@ -14,6 +14,9 @@ class AppAssets {
   static String lessTen = 'assets/images/less_ten.svg';
   static String plusHundred = 'assets/images/plus_hundred.svg';
   static String lessHundred = 'assets/images/less_hundred.svg';
+  static String plus = 'assets/images/plus.svg';
+  static String minus = 'assets/images/minus.svg';
+  static String bar = 'assets/images/bar.svg';
   static String one00 = 'assets/images/one_00.svg';
   static String one01 = 'assets/images/one_01.svg';
   static String one02 = 'assets/images/one_02.svg';

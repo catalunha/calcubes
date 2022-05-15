@@ -1,13 +1,14 @@
 import 'package:calcubes/app/presentation/controllers/hundreds_tens_ones/add/hundreds_tens_ones_add_controller.dart';
 import 'package:calcubes/app/presentation/views/utils/app_appbar.dart';
+import 'package:calcubes/app/presentation/views/utils/app_assets.dart';
 import 'package:calcubes/app/presentation/views/utils/app_control_ones_tens_hundreds.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-class HundredsTensOnesAddPage extends StatelessWidget {
+class HundredsTensOnesAddSubPage extends StatelessWidget {
   final HundredsTensOnesAddController _hundredsTensOnesAddController =
       Get.find();
-  HundredsTensOnesAddPage({Key? key}) : super(key: key);
+  HundredsTensOnesAddSubPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -89,44 +90,58 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                             )),
                       ),
                       Flexible(
-                        child: Obx(() => Container(
-                              child: _hundredsTensOnesAddController
-                                      .lostOne.value
-                                  ? Image.asset(
-                                      _hundredsTensOnesAddController
-                                              .minusMiniOnesList[
-                                          _hundredsTensOnesAddController
-                                              .partsSum
-                                              .number1Ones()],
-                                      gaplessPlayback: true,
-                                    )
-                                  : InkWell(
-                                      onTap: _hundredsTensOnesAddController
-                                              .isSubtraction.value
-                                          ? () {
-                                              _hundredsTensOnesAddController.lost(
-                                                  'one',
-                                                  _hundredsTensOnesAddController
-                                                      .partsSum
-                                                      .number1Ones());
-                                            }
-                                          : null,
-                                      child: Image.asset(
-                                        _hundredsTensOnesAddController.onesList[
-                                            _hundredsTensOnesAddController
-                                                .partsSum
-                                                .number1Ones()],
-                                        gaplessPlayback: true,
-                                      ),
-                                    ),
-                            )),
+                        child: Image.asset(
+                          _hundredsTensOnesAddController.onesList[
+                              _hundredsTensOnesAddController.partsSum
+                                  .number1Ones()],
+                          gaplessPlayback: true,
+                        ),
                       ),
+                      // Flexible(
+                      //   child: Obx(() => Container(
+                      //         child: _hundredsTensOnesAddController
+                      //                 .lostOne.value
+                      //             ? Image.asset(
+                      //                 _hundredsTensOnesAddController
+                      //                         .minusMiniOnesList[
+                      //                     _hundredsTensOnesAddController
+                      //                         .partsSum
+                      //                         .number1Ones()],
+                      //                 gaplessPlayback: true,
+                      //               )
+                      //             : InkWell(
+                      //                 onTap: _hundredsTensOnesAddController
+                      //                         .isSubtraction.value
+                      //                     ? () {
+                      //                         _hundredsTensOnesAddController.lost(
+                      //                             'one',
+                      //                             _hundredsTensOnesAddController
+                      //                                 .partsSum
+                      //                                 .number1Ones());
+                      //                       }
+                      //                     : null,
+                      //                 child: Image.asset(
+                      //                   _hundredsTensOnesAddController.onesList[
+                      //                       _hundredsTensOnesAddController
+                      //                           .partsSum
+                      //                           .number1Ones()],
+                      //                   gaplessPlayback: true,
+                      //                 ),
+                      //               ),
+                      //       )),
+                      // ),
                     ],
                   ),
                   //
-                  Text(_hundredsTensOnesAddController.partsSum.operation == '+'
-                      ? 'plus'
-                      : 'minus'),
+                  // Text(_hundredsTensOnesAddController.partsSum.operation == '+'
+                  //     ? 'plus'
+                  //     : 'minus'),
+                  const SizedBox(height: 5),
+                  _hundredsTensOnesAddController.partsSum.operation == '+'
+                      ? Image.asset(AppAssets.plus)
+                      : Image.asset(AppAssets.minus),
+                  const SizedBox(height: 5),
+
                   // number 2
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
@@ -172,7 +187,10 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                       ),
                     ],
                   ),
-                  const Text('equals'),
+                  // const Text('equals to'),
+                  const SizedBox(height: 5),
+                  Image.asset(AppAssets.bar),
+                  const SizedBox(height: 5),
                   Obx(
                     () => Column(
                       children: [
@@ -218,21 +236,52 @@ class HundredsTensOnesAddPage extends StatelessWidget {
                             ),
                           ],
                         ),
+                        const SizedBox(height: 5),
+
+                        ElevatedButton(
+                          onPressed: () {
+                            _hundredsTensOnesAddController.recalculateSum();
+                          },
+                          style: ButtonStyle(
+                            shape: MaterialStateProperty.all<
+                                RoundedRectangleBorder>(
+                              RoundedRectangleBorder(
+                                borderRadius: BorderRadius.circular(18.0),
+                                // side: const BorderSide(color: Colors.red),
+                              ),
+                            ),
+                          ),
+                          child: const Text('Submit your answer !'),
+                        ),
                         Container(
                           color: _hundredsTensOnesAddController
-                                  .isAnswerCorrect.value
-                              ? Colors.green
-                              : Colors.yellow,
-                          width: double.infinity,
+                                  .messageAnswer.isEmpty
+                              ? null
+                              : _hundredsTensOnesAddController
+                                      .isAnswerCorrect.value
+                                  ? Colors.green
+                                  : Colors.yellow,
+                          width: 300,
                           height: 20,
                           alignment: Alignment.center,
-                          child: _hundredsTensOnesAddController
-                                  .isAnswerCorrect.value
-                              ? Text(
-                                  'You got it! The answer is ${_hundredsTensOnesAddController.answer}.')
-                              : Text(
-                                  'Oops! You have ${_hundredsTensOnesAddController.answer}. Keep trying!'),
-                        )
+                          child: Text(
+                              '${_hundredsTensOnesAddController.messageAnswer}'),
+                        ),
+                        // Container(
+                        //   color: _hundredsTensOnesAddController
+                        //           .isAnswerCorrect.value
+                        //       ? Colors.green
+                        //       : Colors.yellow,
+                        //   width: 300,
+                        //   height: 20,
+                        //   alignment: Alignment.center,
+                        //   child: _hundredsTensOnesAddController
+                        //           .isAnswerCorrect.value
+                        //       ? Text(
+                        //           'You got it! The answer is ${_hundredsTensOnesAddController.answer}.')
+                        //       : Text(
+                        //           'Oops! You have ${_hundredsTensOnesAddController.answer}. Keep trying!'),
+                        // ),
                       ],
                     ),
                   ),

@@ -8,7 +8,7 @@ import 'package:calcubes/app/presentation/views/auth/splash/splash_page.dart';
 import 'package:calcubes/app/presentation/views/home/home_page.dart';
 import 'package:calcubes/app/presentation/views/hundreds/count/hundreds_count_page.dart';
 import 'package:calcubes/app/presentation/views/hundreds_tens_ones/add/data_for_operation.dart';
-import 'package:calcubes/app/presentation/views/hundreds_tens_ones/add/hundreds_tens_ones_add_page.dart';
+import 'package:calcubes/app/presentation/views/hundreds_tens_ones/add/hundreds_tens_ones_add_sub_page.dart';
 import 'package:calcubes/app/presentation/views/hundreds_tens_ones/count/hundreds_tens_ones_count_page.dart';
 import 'package:calcubes/app/presentation/views/ones/count/ones_count_page.dart';
 import 'package:calcubes/app/presentation/views/tens/count/tens_count_page.dart';
@@ -69,7 +69,7 @@ class Routes {
     GetPage(
       name: Routes.hundredsTensOnesAdd,
       binding: HundredsTensOnesAddDependencies(),
-      page: () => HundredsTensOnesAddPage(),
+      page: () => HundredsTensOnesAddSubPage(),
     ),
     GetPage(
       name: Routes.dataForOperation,
