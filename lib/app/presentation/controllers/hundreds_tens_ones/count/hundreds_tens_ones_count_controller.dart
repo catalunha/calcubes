@@ -48,7 +48,8 @@ class HundredsTensOnesCountController extends GetxController {
 
   plusTen() {
     if (_tens.value >= 9) {
-      _tens.value = 9;
+      _tens.value = 0;
+      plusHundred();
     } else {
       _tens.value++;
     }
@@ -56,7 +57,12 @@ class HundredsTensOnesCountController extends GetxController {
 
   lessTen() {
     if (_tens.value <= 0) {
-      _tens.value = 0;
+      if (_hundreds.value > 0) {
+        _tens.value = 9;
+        lessHundred();
+      } else {
+        _tens.value = 0;
+      }
     } else {
       _tens.value--;
     }
@@ -86,7 +92,8 @@ class HundredsTensOnesCountController extends GetxController {
 
   plusOne() {
     if (_one.value >= 9) {
-      _one.value = 9;
+      _one.value = 0;
+      plusTen();
     } else {
       _one.value++;
     }
@@ -94,7 +101,16 @@ class HundredsTensOnesCountController extends GetxController {
 
   lessOne() {
     if (_one.value <= 0) {
-      _one.value = 0;
+      if (_tens.value > 0) {
+        _one.value = 9;
+        lessTen();
+      } else if (_hundreds.value > 0) {
+        _tens.value = 9;
+        lessHundred();
+        _one.value = 9;
+      } else {
+        _one.value = 0;
+      }
     } else {
       _one.value--;
     }
@@ -115,6 +131,7 @@ class HundredsTensOnesCountController extends GetxController {
     AppAssets.ones7,
     AppAssets.ones8,
     AppAssets.ones9,
+    AppAssets.ones0,
   ];
   //================
   resetHundredsTensOnes() {
