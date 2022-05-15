@@ -32,7 +32,7 @@ class _DataForOperationState extends State<DataForOperation> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Informe os dados'),
+        title: const Text('Inform the values'),
       ),
       body: Form(
         key: _formKey,
@@ -44,7 +44,7 @@ class _DataForOperationState extends State<DataForOperation> {
               AppNumberFormField(
                 label: 'Number 1',
                 controller: _number1TEC,
-                validator: Validatorless.required('Number 1 é obrigatória'),
+                validator: Validatorless.required('Number 1 is required'),
               ),
               const SizedBox(
                 height: 50,
@@ -56,7 +56,7 @@ class _DataForOperationState extends State<DataForOperation> {
               AppNumberFormField(
                 label: 'Number 2',
                 controller: _number2TEC,
-                validator: Validatorless.required('Number 2 é obrigatória'),
+                validator: Validatorless.required('Number 2 is required'),
               ),
               const SizedBox(
                 height: 50,
