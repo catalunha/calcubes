@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="3355.4427"
-     inkscape:cy="846.31843"
+     inkscape:zoom="2.56"
+     inkscape:cx="5094.5313"
+     inkscape:cy="-1771.0938"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -4384,13 +4384,6 @@
        x="2113.188"
        y="1841.249" />
     <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2386-9-2-43-1-2-5-0-9"
-       width="59.416679"
-       height="59.416664"
-       x="2983.2793"
-       y="575.1651" />
-    <rect
        style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="use135386-0"
        width="12"
@@ -6929,76 +6922,2226 @@
        transform="translate(84.622,207.82257)"
        width="100%"
        height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-7"
+       width="158.26291"
+       height="318.26291"
+       x="3129.5422"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192631-5"
+       width="59.416679"
+       height="59.416664"
+       x="3218.458"
+       y="575.1651" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-77"
+       width="158.26291"
+       height="318.26291"
+       x="3287.8052"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192631-9"
+       width="59.416679"
+       height="59.416664"
+       x="3376.7209"
+       y="575.1651" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192717-0"
+       width="59.416679"
+       height="59.416664"
+       x="3376.7209"
+       y="637.58179" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-4"
+       width="158.26291"
+       height="318.26291"
+       x="3446.0681"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192631-2"
+       width="59.416679"
+       height="59.416664"
+       x="3534.9839"
+       y="575.1651" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192717-3"
+       width="59.416679"
+       height="59.416664"
+       x="3534.9839"
+       y="637.58179" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192721-2"
+       width="59.416679"
+       height="59.416664"
+       x="3534.9839"
+       y="699.99841" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-6"
+       width="158.26291"
+       height="318.26291"
+       x="3604.3311"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_4.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192631-4"
+       width="59.416679"
+       height="59.416664"
+       x="3693.2468"
+       y="575.1651" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192717-8"
+       width="59.416679"
+       height="59.416664"
+       x="3693.2468"
+       y="637.58179" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192721-5"
+       width="59.416679"
+       height="59.416664"
+       x="3693.2468"
+       y="699.99841" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192725-4"
+       width="59.416679"
+       height="59.416664"
+       x="3693.2468"
+       y="762.4151" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-75"
+       width="158.26291"
+       height="318.26291"
+       x="3762.594"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_5.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192631-57"
+       width="59.416679"
+       height="59.416664"
+       x="3851.5098"
+       y="575.1651" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192717-9"
+       width="59.416679"
+       height="59.416664"
+       x="3851.5098"
+       y="637.58179" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192721-0"
+       width="59.416679"
+       height="59.416664"
+       x="3851.5098"
+       y="699.99841" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192725-2"
+       width="59.416679"
+       height="59.416664"
+       x="3851.5098"
+       y="762.4151" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use192729-8"
+       width="59.416679"
+       height="59.416664"
+       x="3851.5098"
+       y="824.83173" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-0"
+       width="158.26291"
+       height="318.26291"
+       x="3920.8569"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_6.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-5"
+       width="59.416679"
+       height="59.416664"
+       x="3932.8569"
+       y="575.1651" />
     <use
        x="0"
        y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192631"
-       transform="translate(76.915778)"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-5"
+       id="use192631-25"
+       transform="translate(76.915784)"
        width="100%"
        height="100%" />
     <use
        x="0"
        y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192633"
-       width="100%"
-       height="100%"
-       transform="translate(-2.265625e-6,62.416657)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192717"
-       transform="translate(76.915778,62.416657)"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-5"
+       id="use192717-5"
+       transform="translate(76.915784,62.416657)"
        width="100%"
        height="100%" />
     <use
        x="0"
        y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192719"
-       width="100%"
-       height="100%"
-       transform="translate(-2.265625e-6,124.83331)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192721"
-       transform="translate(76.915778,124.83332)"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-5"
+       id="use192721-58"
+       transform="translate(76.915784,124.83332)"
        width="100%"
        height="100%" />
     <use
        x="0"
        y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192723"
-       width="100%"
-       height="100%"
-       transform="translate(-2.265625e-6,187.24999)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192725"
-       transform="translate(76.915778,187.24999)"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-5"
+       id="use192725-3"
+       transform="translate(76.915784,187.24999)"
        width="100%"
        height="100%" />
     <use
        x="0"
        y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192727"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-5"
+       id="use192729-7"
+       transform="translate(76.915784,249.66665)"
        width="100%"
-       height="100%"
-       transform="translate(-2.265625e-6,249.66665)" />
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-8"
+       width="158.26291"
+       height="318.26291"
+       x="4079.1199"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_7.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-62"
+       width="59.416679"
+       height="59.416664"
+       x="4091.1199"
+       y="575.1651" />
     <use
        x="0"
        y="0"
-       xlink:href="#rect2386-9-2-43-1-2-5-0-9"
-       id="use192729"
-       transform="translate(76.915778,249.66665)"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-62"
+       id="use192631-51"
+       transform="translate(76.915785)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-62"
+       id="use192633-00"
+       width="100%"
+       height="100%"
+       transform="translate(4.765625e-6,62.416655)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-62"
+       id="use192717-08"
+       transform="translate(76.915785,62.416655)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-62"
+       id="use192721-8"
+       transform="translate(76.915785,124.83333)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-62"
+       id="use192725-1"
+       transform="translate(76.915785,187.25)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-62"
+       id="use192729-08"
+       transform="translate(76.915785,249.66665)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-07"
+       width="158.26291"
+       height="318.26291"
+       x="4237.3828"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_8.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-1"
+       width="59.416679"
+       height="59.416664"
+       x="4249.3828"
+       y="575.1651" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-1"
+       id="use192631-513"
+       transform="translate(76.915804)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-1"
+       id="use192633-3"
+       width="100%"
+       height="100%"
+       transform="translate(3.984375e-6,62.416655)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-1"
+       id="use192717-94"
+       transform="translate(76.915804,62.416655)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-1"
+       id="use192719-8"
+       width="100%"
+       height="100%"
+       transform="translate(3.984375e-6,124.83331)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-1"
+       id="use192721-23"
+       transform="translate(76.915804,124.83332)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-1"
+       id="use192725-0"
+       transform="translate(76.915804,187.24999)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-1"
+       id="use192729-07"
+       transform="translate(76.915804,249.66665)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-02"
+       width="158.26291"
+       height="318.26291"
+       x="4395.6455"
+       y="571.1651"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00"
+       width="59.416679"
+       height="59.416664"
+       x="4407.6455"
+       y="575.1651" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00"
+       id="use192631-0"
+       transform="translate(76.915797)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00"
+       id="use192633-4"
+       width="100%"
+       height="100%"
+       transform="translate(1.875e-7,62.416657)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00"
+       id="use192717-081"
+       transform="translate(76.915797,62.416657)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00"
+       id="use192719-19"
+       width="100%"
+       height="100%"
+       transform="translate(1.875e-7,124.83331)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00"
+       id="use192721-9"
+       transform="translate(76.915797,124.83332)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00"
+       id="use192723-39"
+       width="100%"
+       height="100%"
+       transform="translate(1.875e-7,187.24999)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00"
+       id="use192725-9"
+       transform="translate(76.915797,187.24999)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00"
+       id="use192729-2"
+       transform="translate(76.915797,249.66665)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6"
+       width="158.26291"
+       height="318.26291"
+       x="2970.2666"
+       y="-1672.9594"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3013.8838,-1589.1837 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3053.034,-1589.1837 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3092.1841,-1589.1837 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2974.7337,-1589.1837 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3014.1288,-1523.5356 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1-0-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3053.279,-1523.5356 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3092.4291,-1523.5356 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3031.0938,-1471.4111 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-7-4-3-5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2974.9787,-1523.5356 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-71-2-6" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0"
+       width="158.77112"
+       height="158.7711"
+       x="2972.7151"
+       y="-2291.0269"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-7"
+       width="158.77112"
+       height="158.7711"
+       x="2972.7153"
+       y="-2132.2559"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;stroke:#1a1a1a;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-3"
+       width="158.77112"
+       height="158.7711"
+       x="2972.7153"
+       y="-1973.4847"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#333333;stroke:#1a1a1a;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5"
+       width="158.77112"
+       height="158.7711"
+       x="2813.9441"
+       y="-2291.0269"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-7-9"
+       width="158.77112"
+       height="158.7711"
+       x="2813.9443"
+       y="-2132.2559"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;stroke:#1a1a1a;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-3-6"
+       width="158.77112"
+       height="158.7711"
+       x="2813.9443"
+       y="-1973.4846"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#333333;stroke:#1a1a1a;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2"
+       width="158.77112"
+       height="158.7711"
+       x="2655.1733"
+       y="-2291.0269"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-7-8"
+       width="158.77112"
+       height="158.7711"
+       x="2655.1736"
+       y="-2132.2559"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;stroke:#1a1a1a;stroke-width:1.22889"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-3-8"
+       width="158.77112"
+       height="158.7711"
+       x="2655.1736"
+       y="-1973.4849"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3018.5865,-2250.997 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3057.7367,-2250.997 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3096.8868,-2250.997 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2979.4364,-2250.997 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3018.8315,-2213.3489 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1-0-2-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3057.9817,-2213.3489 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4-8-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3097.1318,-2213.3489 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7-5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3035.7965,-2177.2244 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-7-4-3-5-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2979.6814,-2213.3489 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-71-2-6-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3018.478,-1934.3374 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3057.6282,-1934.3374 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3096.7783,-1934.3374 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2979.3279,-1934.3374 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5-4" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3018.723,-1896.6893 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1-0-2-7-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3057.8732,-1896.6893 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4-8-2-6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3097.0233,-1896.6893 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7-5-4" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3035.688,-1860.5648 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-7-4-3-5-7-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2979.5729,-1896.6893 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-71-2-6-9-66" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3018.2683,-2092.0092 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3057.4185,-2092.0092 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3096.5686,-2092.0092 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2979.1182,-2092.0092 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3018.5133,-2054.3611 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1-0-2-7-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3057.6635,-2054.3611 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4-8-2-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3096.8136,-2054.3611 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7-5-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3035.4783,-2018.2366 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-7-4-3-5-7-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2979.3632,-2054.3611 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-71-2-6-9-6" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-35-0"
+       width="158.26291"
+       height="318.26291"
+       x="2970.2666"
+       y="-1334.6965"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/tens_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.89338;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-9-4"
+       width="90"
+       height="20"
+       x="-1324.3597"
+       y="-3015.9578"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-9-4-5"
+       width="75"
+       height="20"
+       x="-2289.0269"
+       y="-2841.9443"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4"
+       id="use191412-4-6"
+       transform="translate(84.622)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use191412-4-6"
+       id="use191414-3-9"
+       transform="translate(-41.1821)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4"
+       id="use191416-85-6"
+       transform="translate(0,103.16)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4"
+       id="use191418-5-8"
+       transform="translate(0,207.8226)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4"
+       id="use191420-28-9"
+       transform="translate(43.4399,103.16)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4"
+       id="use191504-31-6"
+       transform="translate(84.622,103.16)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4"
+       id="use191506-8-8"
+       transform="translate(43.4399,207.8226)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4"
+       id="use191508-2-5"
+       transform="translate(84.622,207.8226)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.7371"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-81-2-02-9"
+       width="158.26291"
+       height="318.26291"
+       x="2970.2666"
+       y="-956.43359"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/hundreds_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.91054;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8"
+       width="59.416679"
+       height="59.416664"
+       x="2982.2666"
+       y="-952.43359" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       width="50"
+       height="50"
+       x="2657.1733"
+       y="-2289.0269" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8"
+       id="use192631-0-7"
+       transform="translate(76.9158)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8"
+       id="use192633-4-0"
+       width="100%"
+       height="100%"
+       transform="translate(0,62.4167)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8"
+       id="use192717-081-7"
+       transform="translate(76.9158,62.4167)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8"
+       id="use192719-19-8"
+       width="100%"
+       height="100%"
+       transform="translate(0,124.8333)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8"
+       id="use192721-9-5"
+       transform="translate(76.9158,124.8333)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8"
+       id="use192723-39-8"
+       width="100%"
+       height="100%"
+       transform="translate(0,187.25)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8"
+       id="use192725-9-7"
+       transform="translate(76.9158,187.25)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8"
+       id="use192729-2-8"
+       transform="translate(76.9158,249.6667)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5"
+       id="use204581"
+       transform="translate(31)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5"
+       id="use204583"
+       transform="translate(62)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5"
+       id="use204585"
+       transform="translate(93)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5"
+       id="use204587"
+       transform="translate(124)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5"
+       id="use204591"
+       transform="translate(31,79)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5"
+       id="use204593"
+       transform="translate(62,79)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5"
+       id="use204595"
+       transform="translate(93,79)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5"
+       id="use204597"
+       transform="translate(124,79)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       id="use205912"
+       transform="translate(52)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       id="use205914"
+       transform="translate(104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       id="use205916"
+       transform="translate(0,52)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       id="use205918"
+       transform="translate(52,52)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       id="use206002"
+       transform="translate(104,52)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       id="use206004"
+       transform="translate(0,104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       id="use206006"
+       transform="translate(52,104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7"
+       id="use206008"
+       transform="translate(104,104)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0"
+       width="158.77112"
+       height="158.7711"
+       x="3638.7603"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_0.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9"
+       width="158.77112"
+       height="158.7711"
+       x="3638.7603"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_0.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8"
+       width="158.77112"
+       height="158.7711"
+       x="3638.76"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_0.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-8"
+       width="158.77112"
+       height="158.7711"
+       x="3797.5312"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3921.7029,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-7" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-0"
+       width="158.77112"
+       height="158.7711"
+       x="3956.3022"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4041.3237,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-61-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4080.4738,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-9"
+       width="158.77112"
+       height="158.7711"
+       x="4115.0732"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4160.9446,-2285.5643 v -14.9999 h 15.0003 14.9997 v 14.9999 15 h -14.9997 -15.0003 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-7-20" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4200.0948,-2285.5643 v -14.9999 h 15.0003 14.9997 v 14.9999 15 h -14.9997 -15.0003 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-61-34" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4239.2448,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-77" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-1"
+       width="158.77112"
+       height="158.7711"
+       x="4273.8442"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_4.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4319.7158,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-7-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4358.866,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-61-5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4398.0161,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-18" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4280.5657,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5-92-9" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-91"
+       width="158.77112"
+       height="158.7711"
+       x="4432.6152"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_5.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4478.4868,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-7-26" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4517.637,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-61-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4556.7871,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4439.3367,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5-92-65" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4557.0321,-2247.9162 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7-5-6-3" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-87"
+       width="158.77112"
+       height="158.7711"
+       x="4591.3862"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_6.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4637.2578,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-7-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4676.408,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-61-6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4715.5581,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4598.1077,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5-92-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4676.653,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4-8-2-8-543" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4715.8031,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7-5-6-57" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-5"
+       width="158.77112"
+       height="158.7711"
+       x="4750.1572"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_7.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4796.0288,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-7-95" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4835.179,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-61-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4874.3291,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4756.8787,-2285.5643 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5-92-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4796.2738,-2247.9162 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1-0-2-7-01-19" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4835.424,-2247.9162 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4-8-2-8-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4874.5741,-2247.9162 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7-5-6-61" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-4"
+       width="158.77112"
+       height="158.7711"
+       x="4908.9282"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_8.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4954.7993,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-7-02" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4993.9495,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-61-58" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5033.0996,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 H 5048.1 5033.0996 Z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4915.6492,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5-92-16" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4955.0443,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1-0-2-7-01-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4994.1945,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4-8-2-8-7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5033.3446,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7-5-6-05" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 4915.8942,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-71-2-6-9-2-2" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-0-4-9"
+       width="158.77112"
+       height="158.7711"
+       x="5067.6992"
+       y="-2325.5942"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_ones_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5113.5705,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-0-0-4-5-7-02-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5152.7207,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-74-5-7-2-61-58-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5191.8708,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-8-6-9-8-4-0-6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5074.4204,-2285.5644 v -14.9999 h 15.0004 14.9996 v 14.9999 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-0-0-3-5-92-16-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5113.8155,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-43-8-1-0-2-7-01-9-6" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5152.9657,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-8-5-6-8-4-8-2-8-7-4" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5192.1158,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-73-0-7-5-6-05-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5130.7805,-2211.7918 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-9-3-6-7-4-3-5-7-34-13-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.51379;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 5074.6654,-2247.9163 v -15 h 15.0004 14.9996 v 15 15 h -14.9996 -15.0004 z"
+       id="path7100-6-7-2-9-0-9-2-6-7-9-71-2-6-9-2-2-5" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-4"
+       width="158.77112"
+       height="158.7711"
+       x="3797.5312"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204587-5-5"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-3949.5315"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-7"
+       width="158.77112"
+       height="158.7711"
+       x="3956.3022"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204587-5-6"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4108.3027"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204597-3-8"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4108.3027"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-9"
+       width="158.77112"
+       height="158.7711"
+       x="4115.0732"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204585-3-6"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4236.0732"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204587-5-2"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4267.0732"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204597-3-1"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4267.0732"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-71"
+       width="158.77112"
+       height="158.7711"
+       x="4273.8442"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_4.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204585-3-0"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4394.8447"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204587-5-7"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4425.8447"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204595-3-96"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4394.8447"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204597-3-18"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4425.8447"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-5"
+       width="158.77112"
+       height="158.7711"
+       x="4432.6152"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_5.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204583-5-7"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4522.6152"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204585-3-5"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4553.6152"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204587-5-56"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4584.6152"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204595-3-2"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4553.6152"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204597-3-5"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4584.6152"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-98"
+       width="158.77112"
+       height="158.7711"
+       x="4591.3862"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_6.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204583-5-6"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4681.3867"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204585-3-1"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4712.3867"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204587-5-66"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4743.3867"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204593-7-4"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4681.3867"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204595-3-0"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4712.3867"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204597-3-9"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4743.3867"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-6"
+       width="158.77112"
+       height="158.7711"
+       x="4750.1572"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_7.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204581-1-64"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4809.1572"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204583-5-2"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4840.1572"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204585-3-3"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4871.1572"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204587-5-0"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4902.1572"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204593-7-07"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4840.1572"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204595-3-28"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4871.1572"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204597-3-0"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4902.1572"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-2"
+       width="158.77112"
+       height="158.7711"
+       x="4908.9282"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_8.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204581-1-5"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4967.9282"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204583-5-4"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-4998.9282"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204585-3-30"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-5029.9282"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204587-5-71"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-5060.9282"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204591-7-88"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4967.9282"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204593-7-7"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-4998.9282"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204595-3-4"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-5029.9282"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use204597-3-2"
+       width="75"
+       height="20"
+       x="-2021.8232"
+       y="-5060.9282"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-5-9-2-2"
+       width="158.77112"
+       height="158.7711"
+       x="5067.6992"
+       y="-2102.8232"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_tens_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:2.64128;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       width="75"
+       height="20"
+       x="-2100.8232"
+       y="-5095.6992"
+       transform="rotate(90)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       id="use204581-1-5-8"
+       transform="translate(30.999997)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       id="use204583-5-4-7"
+       transform="translate(61.999997)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       id="use204585-3-30-8"
+       transform="translate(92.999997)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       id="use204587-5-71-5"
+       transform="translate(124)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       id="use204591-7-88-9"
+       transform="translate(30.999997,79.000003)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       id="use204593-7-7-8"
+       transform="translate(61.999997,79.000003)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       id="use204595-3-4-3"
+       transform="translate(92.999997,79.000003)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2410-2-7-2-7-4-3-6-9-4-5-1-3-6"
+       id="use204597-3-2-6"
+       transform="translate(124,79.000003)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-4"
+       width="158.77112"
+       height="158.7711"
+       x="3797.5312"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use205914-0-5"
+       width="50"
+       height="50"
+       x="3903.5312"
+       y="-1880.0521" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-0"
+       width="158.77112"
+       height="158.7711"
+       x="3956.3022"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use205912-2-8"
+       width="50"
+       height="50"
+       x="4010.3022"
+       y="-1880.0521" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="use205914-0-1"
+       width="50"
+       height="50"
+       x="4062.3022"
+       y="-1880.0521" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-47"
+       width="158.77112"
+       height="158.7711"
+       x="4115.0732"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_3.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8-7-4-3"
+       width="50"
+       height="50"
+       x="4117.0732"
+       y="-1880.0521" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-3"
+       id="use205912-2-17"
+       transform="translate(51.999996)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-3"
+       id="use205914-0-8"
+       transform="translate(104)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-2"
+       width="158.77112"
+       height="158.7711"
+       x="4273.8442"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_4.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8-7-4-9"
+       width="50"
+       height="50"
+       x="4275.8442"
+       y="-1880.0521" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-9"
+       id="use205912-2-2"
+       transform="translate(51.999998)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-9"
+       id="use205914-0-6"
+       transform="translate(104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-9"
+       id="use206002-7-96"
+       transform="translate(104,52.000004)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-5"
+       width="158.77112"
+       height="158.7711"
+       x="4432.6152"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_5.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8-7-4-1"
+       width="50"
+       height="50"
+       x="4434.6152"
+       y="-1880.0521" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-1"
+       id="use205912-2-0"
+       transform="translate(52.000003)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-1"
+       id="use205914-0-7"
+       transform="translate(104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-1"
+       id="use205918-4-3"
+       transform="translate(52.000003,52.000004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-1"
+       id="use206002-7-2"
+       transform="translate(104,52.000004)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-1"
+       width="158.77112"
+       height="158.7711"
+       x="4591.3862"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_6.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8-7-4-91"
+       width="50"
+       height="50"
+       x="4593.3862"
+       y="-1880.0521" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-91"
+       id="use205912-2-21"
+       transform="translate(52)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-91"
+       id="use205914-0-4"
+       transform="translate(104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-91"
+       id="use205916-7-6"
+       transform="translate(2.5e-7,52.000001)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-91"
+       id="use205918-4-0"
+       transform="translate(52,52.000001)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-91"
+       id="use206002-7-7"
+       transform="translate(104,52.000001)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-22"
+       width="158.77112"
+       height="158.7711"
+       x="4750.1572"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_7.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8-7-4-4"
+       width="50"
+       height="50"
+       x="4752.1572"
+       y="-1880.0521" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-4"
+       id="use205912-2-3"
+       transform="translate(51.999995)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-4"
+       id="use205914-0-9"
+       transform="translate(104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-4"
+       id="use205916-7-64"
+       transform="translate(-4.84375e-6,52.000004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-4"
+       id="use205918-4-67"
+       transform="translate(51.999995,52.000004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-4"
+       id="use206002-7-46"
+       transform="translate(104,52.000004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-4"
+       id="use206008-1-6"
+       transform="translate(104,104)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-7"
+       width="158.77112"
+       height="158.7711"
+       x="4908.9282"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_8.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8-7-4-8"
+       width="50"
+       height="50"
+       x="4910.9282"
+       y="-1880.0521" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-8"
+       id="use205912-2-7"
+       transform="translate(52.000001)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-8"
+       id="use205914-0-52"
+       transform="translate(104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-8"
+       id="use205916-7-67"
+       transform="translate(1.40625e-6,51.999998)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-8"
+       id="use205918-4-47"
+       transform="translate(52.000001,51.999998)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-8"
+       id="use206002-7-1"
+       transform="translate(104,51.999998)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-8"
+       id="use206006-8-06"
+       transform="translate(52.000001,104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-8"
+       id="use206008-1-66"
+       transform="translate(104,104)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846-3-7-8-0-5-0-0-4-4-9-4-221-7-6-1-4-6-0-2-8-09"
+       width="158.77112"
+       height="158.7711"
+       x="5067.6992"
+       y="-1882.0521"
+       ry="0"
+       inkscape:export-filename="/home/catalunha/myapp/calcubes/assets/images/mini_hundreds_9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.60775;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       width="50"
+       height="50"
+       x="5069.6992"
+       y="-1880.0521" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       id="use205912-2-87"
+       transform="translate(52)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       id="use205914-0-0"
+       transform="translate(104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       id="use205916-7-46"
+       transform="translate(0,52.000004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       id="use205918-4-60"
+       transform="translate(52,52.000004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       id="use206002-7-0"
+       transform="translate(104,52.000004)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       id="use206004-6-6"
+       transform="translate(0,104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       id="use206006-8-26"
+       transform="translate(52,104)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2386-9-2-43-1-2-5-0-9-00-8-7-4-05"
+       id="use206008-1-52"
+       transform="translate(104,104)"
        width="100%"
        height="100%" />
   </g>

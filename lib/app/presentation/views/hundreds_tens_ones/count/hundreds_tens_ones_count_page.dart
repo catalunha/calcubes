@@ -22,62 +22,64 @@ class HundredsTensOnesCountPage extends StatelessWidget {
         children: [
           Expanded(
             child: Obx(
-              () => Row(
-                // crossAxisAlignment: CrossAxisAlignment.center,
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Flexible(
-                    child: Column(
-                      // crossAxisAlignment: CrossAxisAlignment.center,
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          '${_hundredsTensOnesCountController.hundred}',
-                          style: GoogleFonts.pacifico(fontSize: 50.0),
-                        ),
-                        Image.asset(
-                          _hundredsTensOnesCountController.hundredsList[
-                              _hundredsTensOnesCountController.hundred],
-                        ),
-                      ],
+              () => SingleChildScrollView(
+                child: Row(
+                  // crossAxisAlignment: CrossAxisAlignment.center,
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Flexible(
+                      child: Column(
+                        // crossAxisAlignment: CrossAxisAlignment.center,
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            '${_hundredsTensOnesCountController.hundred}',
+                            style: GoogleFonts.pacifico(fontSize: 50.0),
+                          ),
+                          Image.asset(
+                            _hundredsTensOnesCountController.hundredsList[
+                                _hundredsTensOnesCountController.hundred],
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                  Flexible(
-                    child: Column(
-                      // crossAxisAlignment: CrossAxisAlignment.center,
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          '${_hundredsTensOnesCountController.ten}',
-                          style: GoogleFonts.pacifico(fontSize: 50.0),
-                        ),
-                        Image.asset(
-                          _hundredsTensOnesCountController
-                              .tensList[_hundredsTensOnesCountController.ten],
-                        ),
-                      ],
+                    Flexible(
+                      child: Column(
+                        // crossAxisAlignment: CrossAxisAlignment.center,
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            '${_hundredsTensOnesCountController.ten}',
+                            style: GoogleFonts.pacifico(fontSize: 50.0),
+                          ),
+                          Image.asset(
+                            _hundredsTensOnesCountController
+                                .tensList[_hundredsTensOnesCountController.ten],
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                  // const SizedBox(
-                  //   width: 5,
-                  // ),
-                  Flexible(
-                    child: Column(
-                      // crossAxisAlignment: CrossAxisAlignment.center,
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          '${_hundredsTensOnesCountController.one}',
-                          style: GoogleFonts.pacifico(fontSize: 50.0),
-                        ),
-                        Image.asset(
-                          _hundredsTensOnesCountController
-                              .onesList[_hundredsTensOnesCountController.one],
-                        ),
-                      ],
+                    // const SizedBox(
+                    //   width: 5,
+                    // ),
+                    Flexible(
+                      child: Column(
+                        // crossAxisAlignment: CrossAxisAlignment.center,
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(
+                            '${_hundredsTensOnesCountController.one}',
+                            style: GoogleFonts.pacifico(fontSize: 50.0),
+                          ),
+                          Image.asset(
+                            _hundredsTensOnesCountController
+                                .onesList[_hundredsTensOnesCountController.one],
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                ],
+                  ],
+                ),
               ),
             ),
           ),

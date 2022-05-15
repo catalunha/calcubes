@@ -40,29 +40,37 @@ class HomePage extends StatelessWidget {
                   image: AppAssets.hundredsTensOnes,
                   text: 'Hundreds, Tens and ones',
                   onTap: () => Get.toNamed(Routes.hundredsTensOnesCount)),
-              itemGrid(
-                image: AppAssets.addOnes,
-                text: 'Addition with Ones',
-              ),
-              itemGrid(
-                image: AppAssets.subOnes,
-                text: 'Subtraction with Ones',
-              ),
-              itemGrid(
-                image: AppAssets.addTens,
-                text: 'Addition with Tens',
-              ),
-              itemGrid(
-                image: AppAssets.subTens,
-                text: 'Subtraction with Tens',
-              ),
+              // itemGrid(
+              //   image: AppAssets.addOnes,
+              //   text: 'Addition with Ones',
+              // ),
+              // itemGrid(
+              //   image: AppAssets.subOnes,
+              //   text: 'Subtraction with Ones',
+              // ),
+              // itemGrid(
+              //   image: AppAssets.addTens,
+              //   text: 'Addition with Tens',
+              // ),
+              // itemGrid(
+              //   image: AppAssets.subTens,
+              //   text: 'Subtraction with Tens',
+              // ),
               itemGrid(
                 image: AppAssets.addHundreds,
-                text: 'Addition with Hundreds',
+                text: 'Addition',
+                onTap: () =>
+                    Get.toNamed(Routes.dataForOperation, arguments: '+'),
+                // onTap: () => Get.toNamed(Routes.hundredsTensOnesAdd,
+                //     arguments: PartsOfOperation(
+                //         operation: '+', number1: '123', number2: '321')),
               ),
+
               itemGrid(
                 image: AppAssets.subHundreds,
-                text: 'Subtraction with Hundreds',
+                text: 'Subtraction',
+                onTap: () =>
+                    Get.toNamed(Routes.dataForOperation, arguments: '-'),
               ),
             ],
           ),
@@ -74,8 +82,8 @@ class HomePage extends StatelessWidget {
   Container itemGrid(
       {required String image, required String text, Function()? onTap}) {
     return Container(
-      // width: 150, //WEB=300,
-      // height: 150,
+      width: 150, //WEB=300,
+      height: 150,
       padding: const EdgeInsets.all(15),
       color: Colors.amberAccent,
       child: InkWell(
